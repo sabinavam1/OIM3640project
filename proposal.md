@@ -1,25 +1,25 @@
 # Big Idea
 
 ## Main Idea
-We would like to create a customizable “Choose your own adventure” quiz that helps people figure out their career aspirations after graduating college. As current upperclassmen, we wanted to create a tool that would help solve the question that a lot of people ask themselves: “What will I do after graduation?”
+We would like to create a customizable “Choose your own adventure” quiz that helps people figure out their career aspirations after graduating college. As current upperclassmen, we wanted to create a tool that would help solve the question that a lot of people ask themselves: “what will I do after graduation?” 
 
-After answering 10–15 questions about work styles and preferences, users will receive a notification telling them about their results. A few examples of potential questions could be:
+After answering 10-15 questions about work styles and preferences, users will receive a notification telling them about their results. A few examples of potential questions could be:
+If you are posed with [insert problem/ task], how would you solve it?
+Out of these potential lifestyles, which one do you want to have after graduation?
+Out of these office layouts, which one inspires you the most?
 
-- If you are posed with [insert problem/task], how would you solve it?
-- Out of these potential lifestyles, which one do you want to have after graduation?
-- Out of these office layouts, which one inspires you the most?
 
-Our objective is to make this not only informative but also interactive and engaging for the user.
+Our objective would be that not only is it informative, but that it is also interactive and engaging for the user. 
 
----
 
 ## Topics to Explore
 
-A few topics that we will explore include:
+A few topics that we will explore will be:
+Components that make up a career (location, type of office, working hours, co-workers, work environment, data driven versus creative mind, etc.)
+The steps on how to create a “quiz-type” project with Python. For instance, we would explore how to incorporate a variety of data forms (ie: text, written responses, images, etc.) and generate connections between the variety of choices selected to provide a realistic answer.
 
-- Components that make up a career (location, type of office, working hours, co-workers, work environment, data-driven vs. creative mindset, etc.)
-- How to create a quiz-style project using Python.
-- How to incorporate various data forms (text, images, written responses) and generate connections between user selections to provide meaningful results.
+Accomplish: Based on choices selected by players, they will have a better understanding of what career choice they are best suited for. 
+
 
 **Goal:** Based on the choices selected by players, they will gain a better understanding of the career path best suited to them.
 
@@ -27,8 +27,7 @@ A few topics that we will explore include:
 
 ## Minimum Viable Product (MVP) and Stretch Goal
 
-- **MVP:** A guided quiz or interactive story that helps users understand what they’re good at and which careers might align with their preferences.
-- **Stretch Goal:** Helping users identify their dream job and how to reach it.
+-Our MVP is a little story guide that allows for people to answer questions and can help people understand what they would be good at and choose their careers accordingly. Our stretch goal is to help people find their utter dream job.
 
 ---
 
@@ -36,106 +35,47 @@ A few topics that we will explore include:
 
 ### Individual Goals
 
-- **Sneha:** Learn how to connect design and Python in a meaningful way.
-- **Sol:** Create an engaging project that helps people "program" their life, and gain a deeper understanding of how Python can integrate with front-end tools.
+Sneha wishes to learn how to connect design and python into something meaningful. Similarly, Sol would like to create an interesting project that can genuinely help people program their life. Additionally, Sol would like to get a deeper understanding of how Python can integrate with front-end tools to make usable and practical tools. 
 
 ### Shared Goals
 
-Since our individual goals align closely, our shared goals are:
-
-- Make a positive impact in a community that can be collaborative but also competitive.
-- Apply class concepts effectively.
-- Create a finished project we’re proud of and potentially include it in a personal portfolio.
-
----
+Since our individual goals overlap, our shared goals are mainly the same. For example, we want to make a positive impact in a community that can be very collaborative, but also cutthroat. Therefore, if our project is able to help at least one person, then we will be content. On the technical side, we would like to perform well grade-wise, but mainly focus on applying concepts learned during class and making our vision come to life. An added benefit would be if we could use the assignment as a project portfolio piece. 
 
 ## Implementation Plan
 
-We plan to utilize several APIs:
+We plan to utilize several APIs for our implementation. One of the main resources will be the O*NET Web Services, a free API that offers detailed information on over 1,000 occupations, including required skills and work styles. Since the data is sourced from the U.S. Department of Labor, we can rely on real-time job information. This API serves as a comprehensive resource for our needs. Additionally, we intend to use the Unsplash API, or a similar service, for acquiring images. We will also leverage HTML and CSS for the design aspect of our project. Given the project's broad scope, we will explore AI, conduct online research, and review other projects to gain valuable insights and direction.
 
-- **O\*NET Web Services**: Free API with detailed information on over 1,000 occupations, including skills and work styles (from the U.S. Department of Labor).
-- **Unsplash API**: For visual elements (images that complement story/quiz flow).
-- **HTML + CSS**: For styling and layout.
-- **Python**: For logic and decision trees.
-
-We’ll also explore AI tools, research similar projects, and consider using frameworks for quiz logic and flow design.
-
----
 
 ## Project Schedule
 
-The duration of the project will be just under one month:
-
-1. **Week 1**: Research & question development.
-2. **Week 2**: API integration + testing output via Visual Studio Code.
-3. **Week 3**: Begin front-end design using HTML/CSS.
-4. **Week 4**: Final integration and user testing.
+The duration of this project will be just under one month. Our initial phase will involve research and the development of engaging questions that will be both enjoyable for users and informative for drawing conclusions. We will validate our ideas by writing code statements that pull data from the APIs, displaying the results in the console using Visual Studio Code. Following this, we will begin the design phase of our application. We will use HTML and CSS to bring our design concepts to life, after which we will integrate our Python code with the CSS, creating a cohesive application.
 
 ---
 
 ## Collaboration Plan
 
-- Weekly scheduled meetings.
-- Communication via Slack and WhatsApp.
-- Open collaboration and respectful feedback.
-- Co-programming where appropriate, but also dividing tasks to work independently and combine later.
-
----
+To ensure that we collaborate as teammates on this project, we will set up a fixed, weekly meeting time. Meanwhile, our main form of communication will be through Slack and WhatsApp. In our group chats, we will consider each other’s opinions with respect and provide feedback on a topic if requested. Moreover, since we will be co-programming the project together, we will be proactive with our updates.
 
 ## Task Division
 
-- Collaborative work on project proposals and brainstorming.
-- Independent work on modular coding tasks.
-- Merge and test code during meetings.
-
----
+Depending on the type of task, we will do them separately or together. For example, on this Project Proposal Assignment, we are working together at the same time on a shared google document. However, if there are coding aspects that can be done independently, we will most likely divide the tasks and combine them together at our weekly meetings.  
 
 ## Comprehensive Pair Programming
 
-We will only pair program if absolutely necessary for specific sections. If needed, one of us will act as the “driver” and the other as the “navigator,” switching roles as appropriate.
-
----
+We will not be undertaking a comprehensive pair program unless required by the code. Pair programming entails that Sneha and I would be coding together on the same computer. Considering that we both have busy schedules, it would be inefficient to only work on our program together. Therefore, we will divide the tasks and once completed, combine them in person to ensure that the code runs smoothly. However, in the case that the code can only be written on one computer, we are more than happy to find time to make it possible. At that point, one person will be the “driver” of the task, while the other person will be the “navigator,” and vice versa.
 
 ## Effective Team Collaboration Plan
 
-- Weekly sync meetings with pre-assigned “to-dos.”
-- Use checklists to ensure progress (research, coding, design).
-
----
+To ensure effective team collaboration, we will set up a weekly meeting to focus on working collaboratively and effectively. Beforehand, we will assign each other “to-dos” to complete before the meeting (tasks can include brainstorming, researching, and coding).
 
 ## Software Development Methodologies
 
-We’ll use the **Agile Development Methodology**, which allows for iteration and feedback. This will help us:
-
-- Break the project into sprints.
-- Revisit sections for improvements.
-- Ensure continuous progress and a polished final product.
-
----
+We anticipate using the Agile Development Methodology because it is a well-rounded strategy that ensures the quality of our assignment. Although this methodology requires a bigger time commitment and various rounds of feedback, it would allow us to revisit the project from various angles to continuously improve it. 
 
 ## Risks and Limitations
 
-**Project Risks:**
-- Overwhelming volume of data.
-- Results might not meet user expectations.
-
-**Personal Risks:**
-- Time management issues.
-- Getting stuck in ideation.
-- Busy academic and extracurricular schedules.
-
-Despite these risks, we’re highly motivated and excited to bring this project to life.
-
----
+*This project faces several risks and limitations, both logistically and personally. From a project standpoint, we are concerned that the volume of data may become overwhelming, which could hinder our development process. Additionally, we worry that the results of our quiz may not align with users' expectations, rendering our project ineffective. On a personal level, we often struggle with meeting deadlines, as we both focus too much on the ideation phase which takes time away from implementation. Furthermore, our busy schedules are filled with intensive classes and extracurricular activities. Regardless of these challenges, we are both passionate about this project and will strive to make it as successful as possible!
 
 ## Additional Course Content
 
-We’ll apply and explore:
-- Functions and control structures (if, while, for loops)
-- Web applications and API integration
-- HTML/CSS styling
-- Online tutorials on building quizzes and interactive stories
-
-We’re also interested in discovering tools for branching narratives and user-based decision trees.
-
----
+The additional course content included various topics such as functions, web applications, and API integration. Moreover, we would benefit from implementing while loops and for loops, as well as CSS and HTML concepts. And lastly, we are interested in discovering additional online resources that explain how to program online quizzes and create choose-your-own-adventure storylines.
