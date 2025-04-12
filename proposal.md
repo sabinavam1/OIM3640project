@@ -27,7 +27,7 @@ Accomplish: Based on choices selected by players, they will have a better unders
 
 ## Minimum Viable Product (MVP) and Stretch Goal
 
--Our MVP is a little story guide that allows for people to answer questions and can help people understand what they would be good at and choose their careers accordingly. Our stretch goal is to help people find their utter dream job.
+Our MVP is a little story guide that allows for people to answer questions and can help people understand what they would be good at and choose their careers accordingly. Our stretch goal is to help people find their utter dream job.
 
 ---
 
