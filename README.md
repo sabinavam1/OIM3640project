@@ -4,11 +4,11 @@
 - Sneha Abinavam
 - Sol Troche-Rodrigo
 
-## Big Idea/Goal/Why did we do this?
+## Goal
 
 The purpose of this tool is to help guide college students about the career choice that suits their skills the most. Our project is a quiz that asks users a series of questions about their career preferences, personality traits, and life goals. Based on their responses, the quiz will suggest a career that checks off their requisites. As upperclassmen ourselves, we wanted to create a tool that would help solve the question that a lot of people ask themselves, which is "what will I do after graduation?"
 
-## User Instructions/README
+## User Instructions
 
 Users will respond to ten "out-of-the-box" questions. Every quesiton will be multiple choice with an average of four options per question. A few examples are the following:
 
