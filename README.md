@@ -13,12 +13,12 @@ The purpose of this tool is to help guide college students about the career choi
 Users will respond to ten "out-of-the-box" questions. Every quesiton will be multiple choice with an average of four options per question. A few examples are the following:
 
   1. You wake up and you’re a duck. What’s the first thing you do?
-    - Apply for a business loan
-    - Start a cult
-    - Fly south and write poetry
-    - Conduct a controlled science experiment in the pond
+     - Apply for a business loan
+     - Start a cult
+     - Fly south and write poetry
+     - Conduct a controlled science experiment in the pond
 
-  2. Pick a method to overthrow a small government.
+  3. Pick a method to overthrow a small government.
      - A really well-designed PowerPoint
      - Meme warfare
      - Slow infiltration via internships
