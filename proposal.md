@@ -27,7 +27,7 @@ Accomplish: Based on choices selected by players, they will have a better unders
 
 ## Minimum Viable Product (MVP) and Stretch Goal
 
--Our MVP is a little story guide that allows for people to answer questions and can help people understand what they would be good at and choose their careers accordingly. Our stretch goal is to help people find their utter dream job.
+Our MVP is a little story guide that allows for people to answer questions and can help people understand what they would be good at and choose their careers accordingly. Our stretch goal is to help people find their utter dream job.
 
 ---
 
@@ -74,7 +74,7 @@ We anticipate using the Agile Development Methodology because it is a well-round
 
 ## Risks and Limitations
 
-*This project faces several risks and limitations, both logistically and personally. From a project standpoint, we are concerned that the volume of data may become overwhelming, which could hinder our development process. Additionally, we worry that the results of our quiz may not align with users' expectations, rendering our project ineffective. On a personal level, we often struggle with meeting deadlines, as we both focus too much on the ideation phase which takes time away from implementation. Furthermore, our busy schedules are filled with intensive classes and extracurricular activities. Regardless of these challenges, we are both passionate about this project and will strive to make it as successful as possible!
+This project faces several risks and limitations, both logistically and personally. From a project standpoint, we are concerned that the volume of data may become overwhelming, which could hinder our development process. Additionally, we worry that the results of our quiz may not align with users' expectations, rendering our project ineffective. On a personal level, we often struggle with meeting deadlines, as we both focus too much on the ideation phase which takes time away from implementation. Furthermore, our busy schedules are filled with intensive classes and extracurricular activities. Regardless of these challenges, we are both passionate about this project and will strive to make it as successful as possible!
 
 ## Additional Course Content
 
