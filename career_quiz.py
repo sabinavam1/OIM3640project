@@ -114,7 +114,7 @@ if __name__ == "__main__":
 
     if recommended_jobs:
         print("\n💼 Based on your strengths, here are 5 jobs to consider:")
-        for job in recommended_jobs[:7]:  # LIMIT to 5 jobs
+        for job in recommended_jobs[:10]:  # LIMIT to 10 jobs
             print(f" - {job}")
     else:
         print("\n⚠️ No jobs returned. Check your credentials or try different tags.")
