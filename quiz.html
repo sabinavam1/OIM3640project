@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Quiz</title>
+
+    <link rel="stylesheet" href="quiz.css">
+
+</head>
+<body>
+    <h1>
+        Career Quiz
+    </h1>
+
+    <h2>
+        Discover what field is the best suited for your skills and personality traits!
+    </h2>
+
+    <div class="form-container">
+        <h3>Personal Information</h3>
+        <form>
+          <div class="form-group">
+            <label for="fullName">Full Name</label>
+            <input type="text" id="fullName" name="fullName" required />
+          </div>
+    
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+    
+          <div class="form-group">
+            <label for="dob">Date of Birth</label>
+            <input type="date" id="dob" name="dob" />
+          </div>
+    
+          <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div class="quiz-container">
+        <div class="quiz-wrapper" id="quizWrapper">
+          <!-- Question 1 -->
+          <div class="quiz-slide">
+            <h2>Question 1</h2>
+            <p>What is the capital of France?</p>
+            <button onclick="goToNext()">Next</button>
+          </div>
+      
+          <!-- Question 2 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 3 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 4 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 5 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 6 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 7 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 8 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 9 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+
+          <!-- Question 10 -->
+          <div class="quiz-slide">
+            <h2>Question 2</h2>
+            <p>What is 2 + 2?</p>
+            <button onclick="alert('Quiz completed!')">Finish</button>
+          </div>
+          
+        </div>
+      </div>
+      
+      <script>
+        function goToNext() {
+          const wrapper = document.getElementById('quizWrapper');
+          wrapper.style.transform = 'translateX(-50%)';
+        }
+      </script>
+
+
+</body>
+</html>
