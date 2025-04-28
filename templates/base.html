@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Career Climb Adventure</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- TOP NAVIGATION -->
+    <header class="top-navigation">
+        <div class="map-progress">
+            {% set question_num = session.get('current_question', 0) %}
+            {% set total_stages = stages|length - 1 %}
+            {% set stage_progress = (question_num * total_stages) // 15 %}
+            
+            {% for stage in stages %}
+                <div class="map-stop {% if loop.index0 <= stage_progress %}reached{% endif %}">
+                    {{ stage }}
+                </div>
+                {% if not loop.last %}
+                    <div class="map-path"></div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </header>
+
+    <div class="page-layout">
+        <main class="main-content">
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+
+    <!-- BOTTOM ROPE -->
+    <div id="bottom-rope" class="bottom-rope">
+        🧗 {{ (session.get('current_question', 0) * (stages|length - 1) // 15) }}/{{ stages|length - 1 }} Stops Climbed!
+    </div>
+
+    <script>
+        window.onload = function() {
+            const rope = document.getElementById('bottom-rope');
+            rope.classList.add('pulse');
+            setTimeout(() => {
+                rope.classList.remove('pulse');
+            }, 1000);
+        };
+    </script>
+
+</body>
+</html>

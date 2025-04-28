@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="result-container">
+    <h1>🏢 You've Found the Golden Corner Office!</h1>
+<p>💰 You’ve claimed the hidden treasure of career success! 💰</p>
+
+
+    <div class="treasure-chest">
+        🎉 Congratulations, Career Adventurer! 🎉
+    </div>
+
+    <!-- Career Profile Summary -->
+    <div class="career-summary">
+        <h2>Top Traits:</h2>
+        <ul>
+            {% for trait in traits %}
+                <li>{{ trait }}</li>
+            {% endfor %}
+        </ul>
+
+        <h2>Top Job Matches:</h2>
+        <ul>
+            {% for job in jobs %}
+                <li>{{ job }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <!-- Timeline of the adventure -->
+    <<div class="timeline-container">
+        <h2>🗺️ Your Career Adventure Journey</h2>
+        <table class="timeline-table">
+            <!-- Table contents -->
+        </table>
+    </div>
+    
+
+    <form action="{{ url_for('start') }}" method="get">
+        <button type="submit" class="restart-button">🔁 Restart Adventure</button>
+    </form>
+</div>
+
+<!-- Confetti + Treasure Sound -->
+<audio id="treasure-sound" src="https://assets.mixkit.co/sfx/preview/mixkit-game-level-completed-2059.mp3"></audio>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+<script>
+    window.onload = function() {
+        confetti({
+            particleCount: 200,
+            spread: 70,
+            origin: { y: 0.6 }
+        });
+        document.getElementById('treasure-sound').play();
+    };
+</script>
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="stage-container">
+
+    {% set question_num = session.get('current_question', 0) %}
+    {% set total_stages = stages|length - 1 %}
+    {% set stage_crossed = (question_num * total_stages) // 15 %}
+    {% if (question_num % (15 // total_stages) == 0) and (question_num != 0) %}
+    <div id="stage-message" class="promotion-message animate-promotion">
+        🌟 <strong>Promotion!</strong> You've reached: <strong>{{ stages[stage_crossed] }}</strong> 🚀
+    </div>
+{% endif %}
+
+
+    <div class="question-card">
+        <p class="question-text">{{ question['question'] }}</p>
+
+        <form action="{{ url_for('question') }}" method="post">
+            {% for answer in question['answers'] %}
+                <button type="submit" name="answer" value="{{ answer['text'] }}" class="answer-button">
+                    {{ answer['text'] }}
+                </button>
+            {% endfor %}
+        </form>
+    </div>
+
+</div>
+{% endblock %}

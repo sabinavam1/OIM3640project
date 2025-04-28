@@ -1,0 +1,224 @@
+/* RESET AND BASE */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f9f7f1;
+    font-family: 'Lato', 'Merriweather', sans-serif;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* TOP NAVIGATION */
+.top-navigation {
+    background: linear-gradient(to right, #d4af37, #8fbc8f);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.map-progress {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: max-content;
+}
+
+.map-stop {
+    background: #fef5d4;
+    border: 2px solid goldenrod;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: background 0.3s, transform 0.3s;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.map-stop.reached {
+    background: #8fbc8f;
+    color: white;
+    transform: scale(1.1);
+}
+
+.map-path {
+    width: 30px;
+    height: 3px;
+    background: goldenrod;
+}
+
+/* PAGE LAYOUT */
+.page-layout {
+    display: flex;
+    flex: 1;
+}
+
+.main-content {
+    flex: 1;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* CONTAINERS */
+.start-container, .stage-container, .result-container {
+    background: #fffbe9;
+    border: 2px solid goldenrod;
+    border-radius: 0px;
+    padding: 60px 80px;
+    max-width: 100%;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+    box-shadow: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* BUTTONS */
+.start-button, .restart-button, .answer-button {
+    background-color: #8fbc8f;
+    border: none;
+    padding: 20px 40px;
+    font-size: 1.8rem;
+    color: white;
+    border-radius: 12px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background 0.4s, transform 0.2s;
+}
+
+.start-button:hover, .restart-button:hover, .answer-button:hover {
+    background-color: #6a996a;
+    transform: scale(1.05);
+}
+
+.answer-button {
+    width: 100%;
+    margin: 15px 0;
+}
+
+/* TEXT */
+h1 {
+    font-size: 3rem;
+    margin-bottom: 25px;
+    color: #2d572c;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2.2rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #4b7b3c;
+}
+
+.question-text {
+    font-size: 1.7rem;
+    margin-bottom: 30px;
+}
+
+/* CAREER SUMMARY */
+.career-summary, .timeline-container {
+    margin-top: 50px;
+    text-align: left;
+    padding: 0 10px;
+}
+
+.career-summary li, .timeline-table td {
+    font-size: 1.3rem;
+}
+
+.timeline-table {
+    border-collapse: collapse;
+    background: #fff8dc;
+    border-radius: 12px;
+    overflow: hidden;
+    min-width: 700px;
+}
+
+.timeline-table th, .timeline-table td {
+    padding: 18px;
+    border-bottom: 1px solid #d4a373;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.timeline-table th {
+    background-color: #8fbc8f;
+    color: white;
+}
+
+/* BOTTOM ROPE */
+.bottom-rope {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: url('../static/images/rope_texture.png') repeat-x center;
+    background-size: contain;
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding: 16px 0;
+    z-index: 1000;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+/* Pulse animation */
+.pulse {
+    animation: pulse-animation 1s ease;
+}
+
+@keyframes pulse-animation {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+/* PROMOTION MESSAGE STYLE */
+.promotion-message {
+    font-size: 2.5rem;
+    color: #4b7b3c;
+    margin-bottom: 40px;
+    padding: 20px 40px;
+    background: #e8f7e4;
+    border: 2px solid #8fbc8f;
+    border-radius: 16px;
+    display: inline-block;
+    font-weight: bold;
+    opacity: 0;
+    animation: fade-zoom-in 1.2s forwards;
+}
+
+/* Promotion Animation */
+@keyframes fade-zoom-in {
+    0% {
+        transform: scale(0.7);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.05);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

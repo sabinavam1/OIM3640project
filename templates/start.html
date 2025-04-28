@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="start-container">
+    <h1>🚀 Welcome to the Career Climb Adventure!</h1>
+    <p>Set sail toward your career treasure. Your choices will shape your destiny!</p>
+    <form action="{{ url_for('question') }}" method="post">
+        <button type="submit" class="start-button">🌟 Start Your Adventure 🌟</button>
+    </form>
+</div>
+{% endblock %}
