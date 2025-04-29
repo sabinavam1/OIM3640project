@@ -20,14 +20,14 @@ fun_quotes = [
 print(random.choice(fun_quotes))
 time.sleep(1)
 
-# === Load Question Bank ===
+# Load question bank
 with open("quiz.json", "r", encoding="utf-8") as f:
     full_question_bank = json.load(f)
 
 for i, q in enumerate(full_question_bank):
     q["id"] = f"q{i+1}"
 
-# === Utility Functions ===
+# Utility functions
 def clean_tags(tags):
     return [tag.strip().capitalize() for tag in tags if isinstance(tag, str)]
 
@@ -63,7 +63,7 @@ def print_advice(profile):
     if "Supportive" in traits or "Empathetic" in traits:
         print(" - Empathetic people often shine in teaching, HR, or counseling roles.")
 
-# === Quiz Logic ===
+# Quiz logic
 def get_random_questions(bank, n=10):
     if n > len(bank):
         raise ValueError(f"Cannot select {n} questions from a pool of {len(bank)}.")
@@ -111,7 +111,7 @@ def generate_summary(profile):
         f"that align with both emotional intelligence and practical execution."
     ), top_traits, top_skills
 
-# === Enhanced Job Matching with Fallback ===
+# Enhanced job matching
 def get_onet_jobs(profile, username, password, use_mock=False, focus=None):
     fallback_jobs = [
         "Creative Director", "Urban Planner", "UX Researcher", "Brand Strategist",
@@ -153,7 +153,7 @@ def get_onet_jobs(profile, username, password, use_mock=False, focus=None):
         logging.error("❌ Request failed: %s", e)
         return fallback_jobs
 
-# === Main Execution ===
+# Main execution 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_questions", type=int, default=15, help="Number of questions to ask")

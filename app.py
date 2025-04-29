@@ -62,7 +62,7 @@ def get_onet_jobs(profile, username, password, focus=None):
     except requests.exceptions.RequestException:
         return fallback_jobs
 
-# === ROUTES ===
+# Routes
 
 @app.route('/')
 def start():
