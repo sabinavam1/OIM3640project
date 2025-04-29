@@ -28,14 +28,13 @@ Although the majority of the questions will consist in selecting option a, b, c,
 
 After the ten questions, users will get a notification saying "You're ideal career will be... (insert career name)!"
 
-## Implementation Information
-
-
-
-## Results
-
 ## Project Evolution/Narrative
 
+In the beginning, our idea was to create a "choose your own adventure" project, where the user could decide the next action a character could take based on the events of the story. Then, we transitioned into the "career quiz." Overall, the project went smoothly, even though there were moments when our Githubs weren't working, we accidentally leaked our APIs, and we struggled deciding on our website aesthetic. However, we eventually made it work. 
+
 ## Attribution
+
+O*NET Web Services: API for job descriptions and career options
+ChatGPT: Debugging and help with generating and understanding code
 
 
