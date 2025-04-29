@@ -1338,7 +1338,233 @@
           "traits": ["Resilient, Unbothered"]
         }
       ]
-    },                       
+    },
+    {
+      "question": "Which cursed object are you legally required to manage?",
+      "answers": [
+        {
+          "text": "An endlessly multiplying filing cabinet.",
+          "skills": ["Workflow Optimization, Space Management"],
+          "traits": ["Organized, Tenacious"]
+        },
+        {
+          "text": "A rebellious fleet of self-driving scooters.",
+          "skills": ["Crisis Response, Fleet Coordination"],
+          "traits": ["Adaptable, Problem-Solver"]
+        },
+        {
+          "text": "A talking typewriter with bad opinions.",
+          "skills": ["Conflict De-escalation, Strategic Editing"],
+          "traits": ["Patient, Witty"]
+        },
+        {
+          "text": "An emotional weather control device.",
+          "skills": ["Emotional Intelligence, Environmental Engineering"],
+          "traits": ["Sensitive, Inventive"]
+        }
+      ]
+    },
+    {
+      "question": "You are cursed to become a kitchen appliance. What do you pick?",
+      "answers": [
+        {
+          "text": "An overconfident blender that thinks it's a philosopher.",
+          "skills": ["Improvisation, Abstract Thinking"],
+          "traits": ["Philosophical, Chaotic"]
+        },
+        {
+          "text": "A toaster that only toasts motivational quotes onto bread",
+          "skills": ["Creative Messaging, Product Design"],
+          "traits": ["Whimsical, Inspirational"]
+        },
+        {
+          "text": "A fridge that judges people’s leftovers.",
+          "skills": ["Critical Analysis, Communication"],
+          "traits": [" Blunt, Observant"]
+        },
+        {
+          "text": "A microwave that occasionally rewrites reality.",
+          "skills": ["Innovation, Disruption Strategy"],
+          "traits": ["Unpredictable, Powerful"]
+        }
+      ]
+    },
+    {
+      "question": "You wake up and your job is \"professional vibe curator\" for an alien embassy. What’s your first move?",
+      "answers": [
+        {
+          "text": "Build a giant glitter dome as a welcome gift.",
+          "skills": ["Event Design, Cross-Cultural Communication"],
+          "traits": ["Bold, Inclusive"]
+        },
+        {
+          "text": "Create an ambient playlist with whale sounds and synths",
+          "skills": ["Sonic Branding, Emotional Intelligence"],
+          "traits": ["Creative, Empathetic"]
+        },
+        {
+          "text": "Invent a universal handshake involving interpretive dance.",
+          "skills": ["Cultural Innovation, Leadership"],
+          "traits": ["Charismatic, Visionary"]
+        },
+        {
+          "text": "Bake symbolic cupcakes to explain Earth politics",
+          "skills": ["Storytelling, Diplomacy"],
+          "traits": ["Clever, Tactful"]
+        }
+      ]
+    },
+    {
+      "question": "Choose your new career after accidentally summoning a minor chaos deity.",
+      "answers": [
+        {
+          "text": "Freelance damage control consultant for mystical mishaps.",
+          "skills": ["Crisis Management, Flexibility"],
+          "traits": [" Resilient, Unflappable"]
+        },
+        {
+          "text": "Event planner for \"cursed yet stylish\" parties.",
+          "skills": ["Party Planning, Risk-Taking"],
+          "traits": ["Fearless, Creative"]
+        },
+        {
+          "text": "Public relations manager for haunted objects.",
+          "skills": ["Reputation Management, Writing"],
+          "traits": ["Patient, Imaginative"]
+        },
+        {
+          "text": "Ghostwriter for angry spirits.",
+          "skills": ["Creative Writing, Empathy"],
+          "traits": ["Expressive, Sensitive"]
+        }
+      ]
+    },
+    {
+      "question": "What weird personal brand are you launching tomorrow?",
+      "answers": [
+        {
+          "text": "Luxury moss gardens for stressed executives.",
+          "skills": ["Wellness Innovation, Market Research"],
+          "traits": ["Zen, Entrepreneurial"]
+        },
+        {
+          "text": "Extreme ironing competitions, but in tuxedos.",
+          "skills": ["Sports Management, Event Promotion"],
+          "traits": ["Ambitious, Dramatic"]
+        },
+        {
+          "text": "Emotional support vending machines.",
+          "skills": ["User Experience Design, Psychology"],
+          "traits": ["Compassionate, Inventive"]
+        },
+        {
+          "text": "Cryptic fortune cookie delivery service (bike-powered",
+          "skills": ["Creative Writing, Logistics"],
+          "traits": ["Mysterious, Energetic"]
+        }
+      ]
+    },
+    {
+      "question": "You accidentally inherit a haunted amusement park. What’s your business model??",
+      "answers": [
+        {
+          "text": "Interactive ghost tours narrated by overly dramatic teens.",
+          "skills": ["Tour Development, Youth Engagement"],
+          "traits": ["Playful, Expressive"]
+        },
+        {
+          "text": "Escape rooms based on your worst emails.",
+          "skills": ["Puzzle Design, Emotional Bravery"],
+          "traits": ["Fearless, Innovative"]
+        },
+        {
+          "text": "Luxury \"haunted\" retreats for burnt-out executives.",
+          "skills": ["Wellness Programming, Hospitality"],
+          "traits": ["Empathetic, Visionary"]
+        },
+        {
+          "text": "A culinary experience where dishes scream if you overcook them.",
+          "skills": ["Restaurant Innovation, Sound Engineering"],
+          "traits": ["Bold, Experimental"]
+        }
+      ]
+    },
+    {
+      "question": "Pick a cursed superpower:",
+      "answers": [
+        {
+          "text": "You can teleport... but only to disappointing buffets.",
+          "skills": ["Adaptability, Food Critique"],
+          "traits": ["Humorous, Resilient"]
+        },
+        {
+          "text": "You can read minds... but only when someone’s thinking about socks.",
+          "skills": ["Pattern Recognition, Focus"],
+          "traits": ["Curious, Patient"]
+        },
+        {
+          "text": "You can control weather... but only inside IKEA",
+          "skills": ["Environmental Manipulation, Tactical Thinking"],
+          "traits": ["Strategic, Weirdly Specific"]
+        },
+        {
+          "text": "You can become invisible... but only during minor inconveniences.",
+          "skills": ["Situational Awareness, Timing"],
+          "traits": ["Stealthy, Resourceful"]
+        }
+      ]
+    },
+    {
+      "question": "You have to design a new start-up based on a random object. Pick your launch product:",
+      "answers": [
+        {
+          "text": "Spatula-based productivity consulting.",
+          "skills": ["Organizational Consulting, Creativity"],
+          "traits": ["Innovative, Enthusiastic"]
+        },
+        {
+          "text": "Glow-in-the-dark office plants that file passive-aggressive HR reports.",
+          "skills": ["Product Development, Behavioral Science"],
+          "traits": ["Sassy, Clever"]
+        },
+        {
+          "text": "Personalized umbrellas that roast you based on your life choices.",
+          "skills": [" Smart Tech Development, UX Writing"],
+          "traits": ["Humorous, Honest"]
+        },
+        {
+          "text": "Self-defense classes taught by squirrels.",
+          "skills": ["Curriculum Design, Risk Management"],
+          "traits": ["Energetic, Tactical"]
+        }
+      ]
+    },
+    {
+      "question": "Your new job is “Chief Vibe Officer” for a group of cryptids. What’s your team-building strategy?",
+      "answers": [
+        {
+          "text": "Forest karaoke with a Sasquatch DJ.",
+          "skills": ["Event Planning, Morale Boosting"],
+          "traits": ["Loud, Supportive"]
+        },
+        {
+          "text": "Team-wide aura readings followed by guided interpretive dance.",
+          "skills": ["Intuition Mapping, Facilitation"],
+          "traits": ["Dreamy, Inclusive"]
+        },
+        {
+          "text": "Biweekly scream therapy in a haunted cave.",
+          "skills": ["Emotional Release Strategy, Workplace Wellness"],
+          "traits": ["Cathartic, Bold"]
+        },
+        {
+          "text": "Design a Slack bot that only sends riddles",
+          "skills": ["Automation, Creative Coding"],
+          "traits": ["Mysterious, Playful"]
+        }
+      ]
+    } 
+
 
   ]
   

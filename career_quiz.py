@@ -64,7 +64,7 @@ def print_advice(profile):
         print(" - Empathetic people often shine in teaching, HR, or counseling roles.")
 
 # Quiz logic
-def get_random_questions(bank, n=10):
+def get_random_questions(bank, n=15):
     if n > len(bank):
         raise ValueError(f"Cannot select {n} questions from a pool of {len(bank)}.")
     return random.sample(bank, n)
