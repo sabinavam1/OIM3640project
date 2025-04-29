@@ -1263,7 +1263,82 @@
           "traits": ["Adaptable", "Empowering"]
         }
       ]
-    }                     
+    },
+    {
+      "question": "You discover a secret portal inside your fridge. What do you do?",
+      "answers": [
+        {
+          "text": "Enter immediately, no questions asked.",
+          "skills": ["Scientific Analysis, Critical Thinking"],
+          "traits": ["Cautious, Methodical"]
+        },
+        {
+          "text": "Analyze the portal's energy signature first.",
+          "skills": ["Professionalism", "Organizational Skills"],
+          "traits": ["Disciplined", "Detail-Oriented"]
+        },
+        {
+          "text": "Throw in some vegetables to test it.",
+          "skills": ["Experimental Design, Resourcefulness"],
+          "traits": ["Curious, Playful"]
+        },
+        {
+          "text": "Sell fridge portal tours on Craigslist",
+          "skills": ["Entrepreneurship, Marketing"],
+          "traits": ["Opportunistic, Bold"]
+        }
+      ]
+    },
+    {
+      "question": "What is your weapon of choice in a bureaucratic battle?",
+      "answers": [
+        {
+          "text": "A perfectly formatted spreadsheet.",
+          "skills": ["Data Management, Organization"],
+          "traits": ["Precise, Detail-Oriented"]
+        },
+        {
+          "text": "A 600-page contract..",
+          "skills": ["Legal Writing, Strategic Foresight"],
+          "traits": ["Meticulous, Assertive"]
+        },
+        {
+          "text": "A glitter bomb hidden in a report.",
+          "skills": ["Creative Problem-Solving, Mischief Engineering"],
+          "traits": ["Curious, Playful"]
+        },
+        {
+          "text": "An army of highly persuasive interns.",
+          "skills": ["Team Leadership, Delegation"],
+          "traits": ["Strategic, Inspirational"]
+        }
+      ]
+    },
+    {
+      "question": "A cursed AI offers you a mysterious job. What do you choose?",
+      "answers": [
+        {
+          "text": "Chief Time Traveler Coordinator.",
+          "skills": ["Systems Organization, Historical Analysis"],
+          "traits": ["Visionary, Analytical"]
+        },
+        {
+          "text": "Dream Architect for Hire.",
+          "skills": ["Creative Visualization, Abstract Thinking"],
+          "traits": ["Inventive, Artistic"]
+        },
+        {
+          "text": "Professional Monster Negotiator.",
+          "skills": ["Conflict Resolution, High-Stakes Mediation"],
+          "traits": ["Calm, Tactical"]
+        },
+        {
+          "text": "Mayor of an Intergalactic Trash Planet.",
+          "skills": ["Environmental Management, Resource Optimization"],
+          "traits": ["Resilient, Unbothered"]
+        }
+      ]
+    },                       
 
   ]
   
