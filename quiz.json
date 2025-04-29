@@ -1,6 +1,6 @@
 [
     {
-      "question": "You wake up and you’re a duck. What’s the first thing you do?",
+      "question": "You wake up and you're a duck. What's the first thing you do?",
       "answers": [
         {
           "text": "Apply for a business loan",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "question": "What’s your go-to apocalypse survival skill?",
+      "question": "What's your go-to apocalypse survival skill?",
       "answers": [
         {
           "text": "Delegating tasks to others",
@@ -100,799 +100,1170 @@
       ]
     },
     {
-        "question": "What do you do when someone tells you “that’s not possible”?",
-        "answers": [
-          {
-            "text": "Cackle",
-            "skills": ["Confidence, Disruption"],
-            "traits": ["Bold, Rebellious"]
-          },
-          {
-            "text": "Build a prototype",
-            "skills": ["Prototyping, Engineering"],
-            "traits": ["Hands-on, Proactive"]
-          },
-          {
-            "text": "Write a diss track",
-            "skills": ["Tech Fluency", "Remote Collaboration"],
-            "traits": ["Expressive, Defiant"]
-          },
-          {
-            "text": "Quietly prove them wrong over 7 years",
-            "skills": ["Long-term Execution, Focus"],
-            "traits": ["Patient, Resilient"]
-          }
-        ]
-      },
-      {
-        "question": "Which of these sentences speaks to your soul?",
-        "answers": [
-          {
-            "text": "“The data yearns to be free.”",
-            "skills": ["Data Analysis, Open-Source Advocacy"],
-            "traits": ["Analytical, Idealistic"]
-          },
-          {
-            "text": "“Art is pain, and so is Excel.”",
-            "skills": ["Creativity, Systems Thinking"],
-            "traits": ["Multifaceted, Honest"]
-          },
-          {
-            "text": "“Capitalism, but make it camp.”",
-            "skills": ["Branding, Social Commentary"],
-            "traits": ["Stylish, Subversive"]
-          },
-          {
-            "text": "“Why not create a sentient plant army?”",
-            "skills": ["Innovation, Bioengineering"],
-            "traits": ["Imaginative, Visionary"]
-          }
-        ]
-      },
-      {
-        "question": "What’s your toxic trait in group projects?",
-        "answers": [
-          {
-            "text": "Over-planning",
-            "skills": ["Project Management, Scheduling"],
-            "traits": ["Perfectionist, Controlling"]
-          },
-          {
-            "text": "Disappearing until the last minute",
-            "skills": ["Crisis Management, Efficiency"],
-            "traits": ["Independent, Risk-taking"]
-          },
-          {
-            "text": "Taking over everything",
-            "skills": ["Leadership, Multitasking"],
-            "traits": ["Assertive, Dominating"]
-          },
-          {
-            "text": "Adding weird jokes to the final presentation",
-            "skills": ["Humor, Public Speaking"],
-            "traits": ["Playful, Relatable"]
-          }
-        ]
-      },
-      {
-        "question": "If you had to replace your heart with something else, what would it be?",
-        "answers": [
-          {
-            "text": "A tiny library",
-            "skills": [" Knowledge Management, Research"],
-            "traits": ["Thoughtful, Intellectual"]
-          },
-          {
-            "text": "A mechanical metronome",
-            "skills": ["Time Management, Consistency"],
-            "traits": ["Rhythmic, Reliable"]
-          },
-          {
-            "text": "A glitter bomb",
-            "skills": ["Surprise Tactics, Event Design"],
-            "traits": ["Spontaneous, Joyful"]
-          },
-          {
-            "text": "A USB stick with mysterious files labeled \"DO NOT OPEN\"",
-            "skills": ["Cyber Curiosity, Puzzle Solving"],
-            "traits": ["Mysterious, Experimental"]
-          }
-        ]
-      },
-      {
-        "question": "What color describes your working style?",
-        "answers": [
-          {
-            "text": "Blue",
-            "skills": ["Project Management, Workflow Optimization"],
-            "traits": ["Dependable, Structured"]
-          },
-          {
-            "text": "Red",
-            "skills": ["Sales, Leadership"],
-            "traits": ["Motivated, Energetic"]
-          },
-          {
-            "text": "Yellow",
-            "skills": ["Customer Service, Ideation"],
-            "traits": ["Outgoing, Flexible"]
-          },
-          {
-            "text": "Green",
-            "skills": ["Mentoring, Conflict Resolution"],
-            "traits": ["Supportive, Level-headed"]
-          },
-          {
-            "text": "Purple",
-            "skills": ["Design, Innovation"],
-            "traits": ["Visionary, Sensitive"]
-          }
-        ]
-      },
-      {
-        "question": "Which animal best represents how you handle deadlines?",
-        "answers": [
-          {
-            "text": "Cheetah",
-            "skills": ["Quick Execution, Time Pressure"],
-            "traits": ["Intense, Goal-Oriented"]
-          },
-          {
-            "text": "Owl",
-            "skills": ["Strategic Planning, Insight"],
-            "traits": ["Thoughtful, Wise"]
-          },
-          {
-            "text": "Ant",
-            "skills": ["Collaboration, Work Ethic"],
-            "traits": ["Loyal, Persistent"]
-          },
-          {
-            "text": "Cat",
-            "skills": ["Crisis Execution, Flexibility"],
-            "traits": ["Self-reliant, Tactical"]
-          },
-          {
-            "text": "Dog",
-            "skills": ["Team Support, Reliability"],
-            "traits": ["Trustworthy, Supportiv"]
-          }
-        ]
-      },
-      {
-        "question": "If your ideal job were a weather forecast, what would it be?",
-        "answers": [
-          {
-            "text": "Sunny with a light breeze",
-            "skills": ["Balance, Communication"],
-            "traits": ["Easygoing, Harmonious"]
-          },
-          {
-            "text": "Thunderstorm",
-            "skills": ["High-Stakes Leadership, Problem Solvingt"],
-            "traits": ["Intense, Dynamic"]
-          },
-          {
-            "text": "Cloudy with breaks of sun",
-            "skills": ["Flexibility, Adaptability"],
-            "traits": ["Reflective, Versatile"]
-          },
-          {
-            "text": "Snow day",
-            "skills": ["Wellness Design, Calm Under Pressure"],
-            "traits": ["Peaceful, Contemplative"]
-          },
-          {
-            "text": "Windy",
-            "skills": ["Agility, Innovation"],
-            "traits": ["Restless, Energetic"]
-          }
-        ]
-      },
-      {
-        "question": "Choose a landscape that feels most like you:",
-        "answers": [
-          {
-            "text": "Mountain",
-            "skills": ["Goal Setting, Endurance"],
-            "traits": ["Ambitious, Resilient"]
-          },
-          {
-            "text": "Beach",
-            "skills": ["Networking, Emotional Intelligence"],
-            "traits": ["Social, Balanced"]
-          },
-          {
-            "text": "Forest",
-            "skills": ["Research, Observation"],
-            "traits": ["Curious, Grounded"]
-          },
-          {
-            "text": "City",
-            "skills": ["Multitasking, Hustle"],
-            "traits": ["Driven, Adaptive"]
-          },
-          {
-            "text": "Desert",
-            "skills": ["Focus, Self-Sufficiency"],
-            "traits": ["Independent, Strategic"]
-          }
-        ]
-      },
-      {
-        "question": "If your dream workday were a movie genre, what would it be?",
-        "answers": [
-          {
-            "text": "Action",
-            "skills": ["Decision-Making, Leadership Under Pressure"],
-            "traits": ["Bold, Fast-Paced"]
-          },
-          {
-            "text": "Drama",
-            "skills": ["Communication, Emotional Intelligence"],
-            "traits": ["Reflective, Empathetic"]
-          },
-          {
-            "text": "Comedy",
-            "skills": ["Improvisation, Team Morale"],
-            "traits": ["Fun-Loving, Relatable"]
-          },
-          {
-            "text": "Documentary",
-            "skills": ["Research, Data Gathering"],
-            "traits": ["Observant, Analytical"]
-          },
-          {
-            "text": "Sci-fi",
-            "skills": ["Innovation, Futuristic Thinking"],
-            "traits": ["Visionary, Curious"]
-          }
-        ]
+      "question": "What do you do when someone tells you “that's not possible”?",
+      "answers": [
+        {
+          "text": "Cackle",
+          "skills": ["Confidence, Disruption"],
+          "traits": ["Bold, Rebellious"]
         },
         {
-            "question": "What emoji best sums up your ideal work life?",
-            "answers": [
-              {
-                "text": "🚀",
-                "skills": ["Growth Mindset, Initiative"],
-                "traits": ["Ambitious, Motivated"]
-              },
-              {
-                "text": "🧠",
-                "skills": ["Critical Thinking, Problem Solving"],
-                "traits": ["Analytical, Curious"]
-              },
-              {
-                "text": "🎨",
-                "skills": ["Design, Storytelling"],
-                "traits": ["Imaginative, Expressive"]
-              },
-              {
-                "text": "🌿",
-                "skills": ["Sustainability, Self-Care Advocacy"],
-                "traits": ["Balanced, Grounded"]
-              },
-              {
-                "text": "🤝",
-                "skills": ["Collaboration, Leadership"],
-                "traits": ["Loyal, Social"]
-              }
-            ]
-            },
-            {
-                "question": "If you had to design a new planet, what job would you assign yourself?",
-                "answers": [
-                  {
-                    "text": "Architect",
-                    "skills": ["System Design, Engineering"],
-                    "traits": [" Logical, Visionary"]
-                  },
-                  {
-                    "text": "Mayor",
-                    "skills": ["Public Speaking, Leadership"],
-                    "traits": ["Responsible, Guiding"]
-                  },
-                  {
-                    "text": "Artist",
-                    "skills": ["Aesthetic Thinking, Innovation"],
-                    "traits": ["Free-Spirited, Cultural"]
-                  },
-                  {
-                    "text": "Explorer",
-                    "skills": ["Curiosity, Risk-Taking"],
-                    "traits": ["Brave, Open-Minded"]
-                  }
+          "text": "Build a prototype",
+          "skills": ["Prototyping, Engineering"],
+          "traits": ["Hands-on, Proactive"]
+        },
+        {
+          "text": "Write a diss track",
+          "skills": ["Tech Fluency", "Remote Collaboration"],
+          "traits": ["Expressive, Defiant"]
+        },
+        {
+          "text": "Quietly prove them wrong over 7 years",
+          "skills": ["Long-term Execution, Focus"],
+          "traits": ["Patient, Resilient"]
+        }
+      ]
+    },
+    {
+      "question": "Which of these sentences speaks to your soul?",
+      "answers": [
+        {
+          "text": "“The data yearns to be free.”",
+          "skills": ["Data Analysis, Open-Source Advocacy"],
+          "traits": ["Analytical, Idealistic"]
+        },
+        {
+          "text": "“Art is pain, and so is Excel.”",
+          "skills": ["Creativity, Systems Thinking"],
+          "traits": ["Multifaceted, Honest"]
+        },
+        {
+          "text": "“Capitalism, but make it camp.”",
+          "skills": ["Branding, Social Commentary"],
+          "traits": ["Stylish, Subversive"]
+        },
+        {
+          "text": "“Why not create a sentient plant army?”",
+          "skills": ["Innovation, Bioengineering"],
+          "traits": ["Imaginative, Visionary"]
+        }
+      ]
+    },
+    {
+      "question": "What's your toxic trait in group projects?",
+      "answers": [
+        {
+          "text": "Over-planning",
+          "skills": ["Project Management, Scheduling"],
+          "traits": ["Perfectionist, Controlling"]
+        },
+        {
+          "text": "Disappearing until the last minute",
+          "skills": ["Crisis Management, Efficiency"],
+          "traits": ["Independent, Risk-taking"]
+        },
+        {
+          "text": "Taking over everything",
+          "skills": ["Leadership, Multitasking"],
+          "traits": ["Assertive, Dominating"]
+        },
+        {
+          "text": "Adding weird jokes to the final presentation",
+          "skills": ["Humor, Public Speaking"],
+          "traits": ["Playful, Relatable"]
+        }
+      ]
+    },
+    {
+      "question": "If you had to replace your heart with something else, what would it be?",
+      "answers": [
+        {
+          "text": "A tiny library",
+          "skills": [" Knowledge Management, Research"],
+          "traits": ["Thoughtful, Intellectual"]
+        },
+        {
+          "text": "A mechanical metronome",
+          "skills": ["Time Management, Consistency"],
+          "traits": ["Rhythmic, Reliable"]
+        },
+        {
+          "text": "A glitter bomb",
+          "skills": ["Surprise Tactics, Event Design"],
+          "traits": ["Spontaneous, Joyful"]
+        },
+        {
+          "text": "A USB stick with mysterious files labeled \"DO NOT OPEN\"",
+          "skills": ["Cyber Curiosity, Puzzle Solving"],
+          "traits": ["Mysterious, Experimental"]
+        }
+      ]
+    },
+    {
+      "question": "What color describes your working style?",
+      "answers": [
+        {
+          "text": "Blue",
+          "skills": ["Project Management, Workflow Optimization"],
+          "traits": ["Dependable, Structured"]
+        },
+        {
+          "text": "Red",
+          "skills": ["Sales, Leadership"],
+          "traits": ["Motivated, Energetic"]
+        },
+        {
+          "text": "Yellow",
+          "skills": ["Customer Service, Ideation"],
+          "traits": ["Outgoing, Flexible"]
+        },
+        {
+          "text": "Green",
+          "skills": ["Mentoring, Conflict Resolution"],
+          "traits": ["Supportive, Level-headed"]
+        },
+        {
+          "text": "Purple",
+          "skills": ["Design, Innovation"],
+          "traits": ["Visionary, Sensitive"]
+        }
+      ]
+    },
+    {
+      "question": "Which animal best represents how you handle deadlines?",
+      "answers": [
+        {
+          "text": "Cheetah",
+          "skills": ["Quick Execution, Time Pressure"],
+          "traits": ["Intense, Goal-Oriented"]
+        },
+        {
+          "text": "Owl",
+          "skills": ["Strategic Planning, Insight"],
+          "traits": ["Thoughtful, Wise"]
+        },
+        {
+          "text": "Ant",
+          "skills": ["Collaboration, Work Ethic"],
+          "traits": ["Loyal, Persistent"]
+        },
+        {
+          "text": "Cat",
+          "skills": ["Crisis Execution, Flexibility"],
+          "traits": ["Self-reliant, Tactical"]
+        },
+        {
+          "text": "Dog",
+          "skills": ["Team Support, Reliability"],
+          "traits": ["Trustworthy, Supportiv"]
+        }
+      ]
+    },
+    {
+      "question": "If your ideal job were a weather forecast, what would it be?",
+      "answers": [
+         {
+          "text": "Sunny with a light breeze",
+          "skills": ["Balance, Communication"],
+          "traits": ["Easygoing, Harmonious"]
+        },
+        {
+          "text": "Thunderstorm",
+          "skills": ["High-Stakes Leadership, Problem Solvingt"],
+          "traits": ["Intense, Dynamic"]
+        },
+        {
+          "text": "Cloudy with breaks of sun",
+          "skills": ["Flexibility, Adaptability"],
+          "traits": ["Reflective, Versatile"]
+        },
+        {
+          "text": "Snow day",
+          "skills": ["Wellness Design, Calm Under Pressure"],
+          "traits": ["Peaceful, Contemplative"]
+        },
+        {
+          "text": "Windy",
+          "skills": ["Agility, Innovation"],
+          "traits": ["Restless, Energetic"]
+        }
+      ]
+    },
+    {
+      "question": "Choose a landscape that feels most like you:",
+      "answers": [
+        {
+          "text": "Mountain",
+          "skills": ["Goal Setting, Endurance"],
+          "traits": ["Ambitious, Resilient"]
+        },
+        {
+          "text": "Beach",
+          "skills": ["Networking, Emotional Intelligence"],
+          "traits": ["Social, Balanced"]
+        },
+        {
+          "text": "Forest",
+          "skills": ["Research, Observation"],
+          "traits": ["Curious, Grounded"]
+        },
+        {
+          "text": "City",
+          "skills": ["Multitasking, Hustle"],
+          "traits": ["Driven, Adaptive"]
+        },
+        {
+          "text": "Desert",
+          "skills": ["Focus, Self-Sufficiency"],
+          "traits": ["Independent, Strategic"]
+        }
+      ]
+    },
+    {
+      "question": "If your dream workday were a movie genre, what would it be?",
+      "answers": [
+        {
+          "text": "Action",
+          "skills": ["Decision-Making, Leadership Under Pressure"],
+          "traits": ["Bold, Fast-Paced"]
+        },
+        {
+          "text": "Drama",
+          "skills": ["Communication, Emotional Intelligence"],
+          "traits": ["Reflective, Empathetic"]
+        },
+        {
+          "text": "Comedy",
+          "skills": ["Improvisation, Team Morale"],
+          "traits": ["Fun-Loving, Relatable"]
+        },
+        {
+          "text": "Documentary",
+          "skills": ["Research, Data Gathering"],
+          "traits": ["Observant, Analytical"]
+        },
+        {
+          "text": "Sci-fi",
+          "skills": ["Innovation, Futuristic Thinking"],
+          "traits": ["Visionary, Curious"]
+        }
+      ]
+    },
+    {
+      "question": "What emoji best sums up your ideal work life?",
+      "answers": [
+        {
+          "text": "🚀",
+          "skills": ["Growth Mindset, Initiative"],
+          "traits": ["Ambitious, Motivated"]
+        },
+        {
+          "text": "🧠",
+          "skills": ["Critical Thinking, Problem Solving"],
+          "traits": ["Analytical, Curious"]
+        },
+        {
+          "text": "🎨",
+          "skills": ["Design, Storytelling"],
+          "traits": ["Imaginative, Expressive"]
+        },
+        {
+          "text": "🌿",
+          "skills": ["Sustainability, Self-Care Advocacy"],
+          "traits": ["Balanced, Grounded"]
+        },
+        {
+          "text": "🤝",
+          "skills": ["Collaboration, Leadership"],
+          "traits": ["Loyal, Social"]
+        }
+      ]
+    },
+    {
+      "question": "If you had to design a new planet, what job would you assign yourself?",
+      "answers": [
+        {
+          "text": "Architect",
+          "skills": ["System Design, Engineering"],
+          "traits": [" Logical, Visionary"]
+        },
+        {
+          "text": "Mayor",
+          "skills": ["Public Speaking, Leadership"],
+          "traits": ["Responsible, Guiding"]
+        },
+        {
+          "text": "Artist",
+          "skills": ["Aesthetic Thinking, Innovation"],
+          "traits": ["Free-Spirited, Cultural"]
+        },
+        {
+          "text": "Explorer",
+          "skills": ["Curiosity, Risk-Taking"],
+          "traits": ["Brave, Open-Minded"]
+        }
                   
-                ]
-                },
-                {
-                    "question": "Which is more satisfying?",
-                    "answers": [
-                      {
-                        "text": "Fixing something broken",
-                        "skills": ["Troubleshooting, Maintenance"],
-                        "traits": ["Persistent, Hands-On"]
-                      },
-                      {
-                        "text": "Starting something brand new",
-                        "skills": ["Innovation, Entrepreneurial Thinking"],
-                        "traits": ["Adventurous, Optimistic"]
-                      }
+      ]
+    },
+    {
+      "question": "Which is more satisfying?",
+      "answers": [
+        {
+          "text": "Fixing something broken",
+          "skills": ["Troubleshooting, Maintenance"],
+          "traits": ["Persistent, Hands-On"]
+        },
+        {
+          "text": "Starting something brand new",
+          "skills": ["Innovation, Entrepreneurial Thinking"],
+          "traits": ["Adventurous, Optimistic"]
+        }
                                             
-                    ]
-                    },
-                    {
-                        "question": "Would you rather…",
-                        "answers": [
-                          {
-                            "text": "Edit a novel",
-                            "skills": ["Precision, Communication"],
-                            "traits": ["Detail-Oriented, Reflective"]
-                          },
-                          {
-                            "text": "Launch a rocket",
-                            "skills": ["Engineering, Risk Management"],
-                            "traits": ["Bold, Innovative"]
-                          },
-                          {
-                            "text": "Plan a surprise",
-                            "skills": ["Planning, Emotional Intelligence"],
-                            "traits": ["Thoughtful, Creative"]
-                          },
-                          {
-                            "text": "Run a kitchen",
-                            "skills": ["Time Management, Operations"],
-                            "traits": ["Efficient, Tactical"]
-                          }
+      ]
+    },
+    {
+      "question": "Would you rather…",
+      "answers": [
+        {
+          "text": "Edit a novel",
+          "skills": ["Precision, Communication"],
+          "traits": ["Detail-Oriented, Reflective"]
+        },
+        {
+          "text": "Launch a rocket",
+          "skills": ["Engineering, Risk Management"],
+          "traits": ["Bold, Innovative"]
+        },
+        {
+          "text": "Plan a surprise",
+          "skills": ["Planning, Emotional Intelligence"],
+          "traits": ["Thoughtful, Creative"]
+        },
+        {
+          "text": "Run a kitchen",
+          "skills": ["Time Management, Operations"],
+          "traits": ["Efficient, Tactical"]
+        }
                           
-                        ]
-                        },
-                        {
-                            "question": "What’s your ideal pace?",
-                            "answers": [
-                          {
-                            "text": "Sprinting",
-                            "skills": ["High Output, Deadline Execution"],
-                            "traits": ["Detail-Oriented, Reflective"]
-                          },
-                          {
-                            "text": "Jogging",
-                            "skills": ["Consistency, Balance"],
-                            "traits": ["Reliable, Calm"]
-                          },
-                          {
-                            "text": "Walking",
-                            "skills": ["Observational Thinking, Reflection"],
-                            "traits": ["Thoughtful, Patient"]
-                          },
-                          {
-                            "text": "Dancing",
-                            "skills": ["Adaptability, Coordination"],
-                            "traits": ["Playful, Resilient"]
-                          }
+      ]
+    },
+    {
+      "question": "What's your ideal pace?",
+      "answers": [
+        {
+          "text": "Sprinting",
+          "skills": ["High Output, Deadline Execution"],
+          "traits": ["Detail-Oriented, Reflective"]
+        },
+        {
+          "text": "Jogging",
+          "skills": ["Consistency, Balance"],
+          "traits": ["Reliable, Calm"]
+        },
+        {
+          "text": "Walking",
+          "skills": ["Observational Thinking, Reflection"],
+          "traits": ["Thoughtful, Patient"]
+        },
+        {
+          "text": "Dancing",
+          "skills": ["Adaptability, Coordination"],
+          "traits": ["Playful, Resilient"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What texture feels most like your thought process?",
-                            "answers": [
-                          {
-                            "text": "Velvet",
-                            "skills": ["Polished Communication, Elegance"],
-                            "traits": ["Refined, Confident"]
-                          },
-                          {
-                            "text": "Sandpaper",
-                            "skills": ["Tough Problem Solving, Grit"],
-                            "traits": ["Determined, No-Nonsense"]
-                          },
-                          {
-                            "text": "Bubbles",
-                            "skills": ["Quick Ideation, Creativity"],
-                            "traits": ["Energetic, Lighthearted"]
-                          },
-                          {
-                            "text": "Clay",
-                            "skills": ["Adaptability, Iteration"],
-                            "traits": ["Flexible, Growth-Oriented"]
-                          }
+      ]
+    },
+    {
+      "question": "What texture feels most like your thought process?",
+      "answers": [
+        {
+          "text": "Velvet",
+          "skills": ["Polished Communication, Elegance"],
+          "traits": ["Refined, Confident"]
+        },
+        {
+          "text": "Sandpaper",
+          "skills": ["Tough Problem Solving, Grit"],
+          "traits": ["Determined, No-Nonsense"]
+        },
+        {
+          "text": "Bubbles",
+          "skills": ["Quick Ideation, Creativity"],
+          "traits": ["Energetic, Lighthearted"]
+        },
+        {
+          "text": "Clay",
+          "skills": ["Adaptability, Iteration"],
+          "traits": ["Flexible, Growth-Oriented"]
+        }
                           
-                        ]
-                        },
-                        {"question": "Would you rather carry a:",
-                            "answers": [
-                          {
-                            "text": "Backpack",
-                            "skills": ["Resourcefulness, Preparedness"],
-                            "traits": ["Versatile, Independent"]
-                          },
-                          {
-                            "text": "Briefcase",
-                            "skills": ["Professionalism, Organization"],
-                            "traits": ["Focused, Strategic"]
-                          },
-                          {
-                            "text": "Camera",
-                            "skills": ["Observation, Documentation"],
-                            "traits": ["Curious, Artistic"]
-                          },
-                          {
-                            "text": "Toolbox",
-                            "skills": ["Problem Solving, DIY Thinking"],
-                            "traits": ["Practical, Capable"]
-                          }
+      ]
+    },
+    {
+      "question": "Would you rather carry a:",
+      "answers": [
+        {
+          "text": "Backpack",
+          "skills": ["Resourcefulness, Preparedness"],
+          "traits": ["Versatile, Independent"]
+        },
+        {
+          "text": "Briefcase",
+          "skills": ["Professionalism, Organization"],
+          "traits": ["Focused, Strategic"]
+        },
+        {
+          "text": "Camera",
+          "skills": ["Observation, Documentation"],
+          "traits": ["Curious, Artistic"]
+        },
+        {
+          "text": "Toolbox",
+          "skills": ["Problem Solving, DIY Thinking"],
+          "traits": ["Practical, Capable"]
+        }
                           
-                        ]
-                        },
-                        {"question": "Would you rather work with:",
-                            "answers": [
-                          {
-                            "text": "Silence",
-                            "skills": ["Deep Focus, Self-Motivation"],
-                            "traits": ["Independent, Internal Processor"]
-                          },
-                          {
-                            "text": "Music",
-                            "skills": ["Creative Flow, Emotional Sync"],
-                            "traits": ["Expressive, Mood-Driven"]
-                          },
-                          {
-                            "text": "Chatter and background noise",
-                            "skills": ["Multitasking, Energy Adaptation"],
-                            "traits": ["Social, Resilient"]
-                          },
-                          {
-                            "text": "Nature sounds",
-                            "skills": ["Mindfulness, Steady Workflow"],
-                            "traits": ["Peaceful, Balanced"]
-                          }
+      ]
+    },
+    {
+      "question": "Would you rather work with:",
+      "answers": [
+        {
+          "text": "Silence",
+          "skills": ["Deep Focus, Self-Motivation"],
+          "traits": ["Independent, Internal Processor"]
+        },
+        {
+          "text": "Music",
+          "skills": ["Creative Flow, Emotional Sync"],
+          "traits": ["Expressive, Mood-Driven"]
+        },
+        {
+          "text": "Chatter and background noise",
+          "skills": ["Multitasking, Energy Adaptation"],
+          "traits": ["Social, Resilient"]
+        },
+        {
+          "text": "Nature sounds",
+          "skills": ["Mindfulness, Steady Workflow"],
+          "traits": ["Peaceful, Balanced"]
+        }
                           
-                        ]
-                        },
-                        {"question": "Would you prefer a workspace with:",
-                            "answers": [
-                          {
-                            "text": "A view",
-                            "skills": ["Big Picture Thinking, Imagination"],
-                            "traits": ["Dreamer, Expansive"]
-                          },
-                          {
-                            "text": "A whiteboard",
-                            "skills": ["Brainstorming, Ideation"],
-                            "traits": ["Dynamic, Conceptual"]
-                          },
-                          {
-                            "text": "A bean bag",
-                            "skills": ["Comfort, Flexibility"],
-                            "traits": ["Chill, Creative"]
-                          },
-                          {
-                            "text": "Plants",
-                            "skills": ["Wellness, Environmental Awareness"],
-                            "traits": ["Nurturing, Intentional"]
-                          }
+      ]
+    },
+    {
+      "question": "Would you prefer a workspace with:",
+      "answers": [
+        {
+          "text": "A view",
+          "skills": ["Big Picture Thinking, Imagination"],
+          "traits": ["Dreamer, Expansive"]
+        },
+        {
+          "text": "A whiteboard",
+          "skills": ["Brainstorming, Ideation"],
+          "traits": ["Dynamic, Conceptual"]
+        },
+        {
+          "text": "A bean bag",
+          "skills": ["Comfort, Flexibility"],
+          "traits": ["Chill, Creative"]
+        },
+        {
+          "text": "Plants",
+          "skills": ["Wellness, Environmental Awareness"],
+          "traits": ["Nurturing, Intentional"]
+        }
                           
-                        ]
-                        },
-                        {"question": "If someone described your working style in 3 words, what would they be?",
-                            "answers": [
-                          {
-                            "text": "Fast, focused, efficient",
-                            "skills": ["Time Management, Execution"],
-                            "traits": ["Productive, Goal-Oriented"]
-                          },
-                          {
-                            "text": "Thoughtful, steady, strategic",
-                            "skills": ["Planning, Long-Term Thinking"],
-                            "traits": ["Reliable, Insightful"]
-                          },
-                          {
-                            "text": "Creative, chaotic, curious",
-                            "skills": ["Innovation, Brainstorming"],
-                            "traits": ["Free-Spirited, Exploratory"]
-                          },
-                          {
-                            "text": "Supportive, flexible, reliable",
-                            "skills": ["Teamwork, Adaptability"],
-                            "traits": ["Empathetic, Dependable"]
-                          }
+      ]
+    },
+    {
+      "question": "If someone described your working style in 3 words, what would they be?",
+      "answers": [
+        {
+          "text": "Fast, focused, efficient",
+          "skills": ["Time Management, Execution"],
+          "traits": ["Productive, Goal-Oriented"]
+        },
+        {
+          "text": "Thoughtful, steady, strategic",
+          "skills": ["Planning, Long-Term Thinking"],
+          "traits": ["Reliable, Insightful"]
+        },
+        {
+          "text": "Creative, chaotic, curious",
+          "skills": ["Innovation, Brainstorming"],
+          "traits": ["Free-Spirited, Exploratory"]
+        },
+        {
+          "text": "Supportive, flexible, reliable",
+          "skills": ["Teamwork, Adaptability"],
+          "traits": ["Empathetic, Dependable"]
+        }
                           
-                        ]
-                        },
-                        {"question": "You have to teach a class about something not on your resume. What is it?",
-                            "answers": [
-                          {
-                            "text": "Life hacks",
-                            "skills": ["Practical Thinking, Efficiency"],
-                            "traits": ["Problem Solver, Clever"]
-                          },
-                          {
-                            "text": "Pop culture",
-                            "skills": ["Trend Awareness, Communication"],
-                            "traits": ["Playful, Current"]
-                          },
-                          {
-                            "text": "Improvisation",
-                            "skills": ["Spontaneity, Public Speaking"],
-                            "traits": ["Quick-Thinking, Engaging"]
-                          },
-                          {
-                            "text": "Philosophy",
-                            "skills": ["Abstract Reasoning, Debate"],
-                            "traits": ["Deep Thinker, Reflective"]
-                          }
+      ]
+    },
+    {
+      "question": "You have to teach a class about something not on your resume. What is it?",
+      "answers": [
+        {
+          "text": "Life hacks",
+          "skills": ["Practical Thinking, Efficiency"],
+          "traits": ["Problem Solver, Clever"]
+        },
+        {
+          "text": "Pop culture",
+          "skills": ["Trend Awareness, Communication"],
+          "traits": ["Playful, Current"]
+        },
+        {
+          "text": "Improvisation",
+          "skills": ["Spontaneity, Public Speaking"],
+          "traits": ["Quick-Thinking, Engaging"]
+        },
+        {
+          "text": "Philosophy",
+          "skills": ["Abstract Reasoning, Debate"],
+          "traits": ["Deep Thinker, Reflective"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What’s your favorite kind of rule?",
-                            "answers": [
-                          {
-                            "text": "One to follow",
-                            "skills": ["Discipline, Execution"],
-                            "traits": ["Reliable, Loyal"]
-                          },
-                          {
-                            "text": "One to bend",
-                            "skills": ["Critical Thinking, Risk-Taking"],
-                            "traits": ["Strategic, Subtle"]
-                          },
-                          {
-                            "text": "One to break",
-                            "skills": ["Disruption, Innovation"],
-                            "traits": ["Bold, Nonconformist"]
-                          },
-                          {
-                            "text": "One you invent yourself",
-                            "skills": ["Leadership, Originality"],
-                            "traits": ["Visionary, Creative"]
-                          }
+      ]
+    },
+    {
+      "question": "What’s your favorite kind of rule?",
+      "answers": [
+        {
+          "text": "One to follow",
+          "skills": ["Discipline, Execution"],
+          "traits": ["Reliable, Loyal"]
+        },
+        {
+          "text": "One to bend",
+          "skills": ["Critical Thinking, Risk-Taking"],
+          "traits": ["Strategic, Subtle"]
+        },
+        {
+          "text": "One to break",
+          "skills": ["Disruption, Innovation"],
+          "traits": ["Bold, Nonconformist"]
+        },
+        {
+          "text": "One you invent yourself",
+          "skills": ["Leadership, Originality"],
+          "traits": ["Visionary, Creative"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What feels like “play” to you but looks like “work” to others?",
-                            "answers": [
-                          {
-                            "text": "Brainstorming",
-                            "skills": ["Ideation, Collaboration"],
-                            "traits": ["Inventive, Energized"]
-                          },
-                          {
-                            "text": "Organizing",
-                            "skills": ["System Design, Structure"],
-                            "traits": ["Calm, Focused"]
-                          },
-                          {
-                            "text": "Creating",
-                            "skills": ["Artistry, Content Production"],
-                            "traits": ["Expressive, Inspired"]
-                          },
-                          {
-                            "text": "Analyzing",
-                            "skills": ["Logic, Data Literacy"],
-                            "traits": ["Curious, Precise"]
-                          }
+      ]
+    },
+    {
+      "question": "What feels like “play” to you but looks like “work” to others?",
+      "answers": [
+        {
+          "text": "Brainstorming",
+          "skills": ["Ideation, Collaboration"],
+          "traits": ["Inventive, Energized"]
+        },
+        {
+          "text": "Organizing",
+          "skills": ["System Design, Structure"],
+          "traits": ["Calm, Focused"]
+        },
+        {
+          "text": "Creating",
+          "skills": ["Artistry, Content Production"],
+          "traits": ["Expressive, Inspired"]
+        },
+        {
+          "text": "Analyzing",
+          "skills": ["Logic, Data Literacy"],
+          "traits": ["Curious, Precise"]
+        }
                           
-                        ]
-                        },
-                        {"question": "You get to ban one thing from all workplaces — what is it?",
-                            "answers": [
-                          {
-                            "text": "Endless meetings",
-                            "skills": ["Time Efficiency, Focus"],
-                            "traits": ["Direct, Independent"]
-                          },
-                          {
-                            "text": "Micromanaging",
-                            "skills": ["Autonomy, Trust"],
-                            "traits": ["Empowered, Assertive"]
-                          },
-                          {
-                            "text": "Fluorescent lights",
-                            "skills": ["Environmental Awareness"],
-                            "traits": ["Sensitive, Aesthetic"]
-                          },
-                          {
-                            "text": "Boring tasks",
-                            "skills": ["Motivation, Task Design"],
-                            "traits": ["Curious, Purpose-Driven"]
-                          }
+      ]
+    },
+    {
+      "question": "You get to ban one thing from all workplaces — what is it?",
+      "answers": [
+        {
+          "text": "Endless meetings",
+          "skills": ["Time Efficiency, Focus"],
+          "traits": ["Direct, Independent"]
+        },
+        {
+          "text": "Micromanaging",
+          "skills": ["Autonomy, Trust"],
+          "traits": ["Empowered, Assertive"]
+        },
+        {
+          "text": "Fluorescent lights",
+          "skills": ["Environmental Awareness"],
+          "traits": ["Sensitive, Aesthetic"]
+        },
+        {
+          "text": "Boring tasks",
+          "skills": ["Motivation, Task Design"],
+          "traits": ["Curious, Purpose-Driven"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What do you notice first in a new space?",
-                            "answers": [
-                          {
-                            "text": "The lighting",
-                            "skills": ["Aesthetic Sensibility, Mood Awareness"],
-                            "traits": ["Sensitive, Detail-Oriented"]
-                          },
-                          {
-                            "text": "The layout",
-                            "skills": ["Spatial Thinking, Efficiency"],
-                            "traits": ["Practical, Systemic"]
-                          },
-                          {
-                            "text": "The people",
-                            "skills": ["Emotional Intelligence, Sociability"],
-                            "traits": ["Empathic, Relational"]
-                          },
-                          {
-                            "text": "The energy",
-                            "skills": ["Intuition, Culture Fit"],
-                            "traits": ["Introspective, Adaptive"]
-                          }
+      ]
+    },
+    {
+      "question": "What do you notice first in a new space?",
+      "answers": [
+        {
+          "text": "The lighting",
+          "skills": ["Aesthetic Sensibility, Mood Awareness"],
+          "traits": ["Sensitive, Detail-Oriented"]
+        },
+        {
+          "text": "The layout",
+          "skills": ["Spatial Thinking, Efficiency"],
+          "traits": ["Practical, Systemic"]
+        },
+        {
+          "text": "The people",
+          "skills": ["Emotional Intelligence, Sociability"],
+          "traits": ["Empathic, Relational"]
+        },
+        {
+          "text": "The energy",
+          "skills": ["Intuition, Culture Fit"],
+          "traits": ["Introspective, Adaptive"]
+        }
                           
-                        ]
-                        },
-                        {"question": "Would you rather be…",
-                            "answers": [
-                          {
-                            "text": "Invisible in meetings",
-                            "skills": ["Observational Listening"],
-                            "traits": ["Reserved, Thoughtful"]
-                          },
-                          {
-                            "text": "Heard but misunderstood",
-                            "skills": ["Communication (developing)"],
-                            "traits": ["Bold, Needing Refinement"]
-                          }
-                        ]
-                        },
-                        {"question": "What do your friends always ask you for help with?",
-                            "answers": [
-                          {
-                            "text": "Big decisions",
-                            "skills": ["Judgment, Critical Thinking"],
-                            "traits": ["Trustworthy, Grounded"]
-                          },
-                          {
-                            "text": "Tech or tools",
-                            "skills": ["Technical Fluency, DIY Help"],
-                            "traits": ["Smart, Practical"]
-                          },
-                          {
-                            "text": "Creative ideas",
-                            "skills": ["Brainstorming, Imagination"],
-                            "traits": ["Free-Spirited, Expressive"]
-                          },
-                          {
-                            "text": "Emotional support",
-                            "skills": ["Empathy, Counseling"],
-                            "traits": ["Compassionate, Nurturing"]
-                          }
+      ]
+    },
+    {
+      "question": "Would you rather be…",
+      "answers": [
+        {
+          "text": "Invisible in meetings",
+          "skills": ["Observational Listening"],
+          "traits": ["Reserved, Thoughtful"]
+        },
+        {
+          "text": "Heard but misunderstood",
+          "skills": ["Communication (developing)"],
+          "traits": ["Bold, Needing Refinement"]
+        }
+      ]
+    },
+    {
+      "question": "What do your friends always ask you for help with?",
+      "answers": [
+        {
+          "text": "Big decisions",
+          "skills": ["Judgment, Critical Thinking"],
+          "traits": ["Trustworthy, Grounded"]
+        },
+        {
+          "text": "Tech or tools",
+          "skills": ["Technical Fluency, DIY Help"],
+          "traits": ["Smart, Practical"]
+        },
+        {
+          "text": "Creative ideas",
+          "skills": ["Brainstorming, Imagination"],
+          "traits": ["Free-Spirited, Expressive"]
+        },
+        {
+          "text": "Emotional support",
+          "skills": ["Empathy, Counseling"],
+          "traits": ["Compassionate, Nurturing"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What task feels so natural you almost forget it’s a skill?",
-                            "answers": [
-                          {
-                            "text": "Explaining things",
-                            "skills": ["Communication, Teaching"],
-                            "traits": ["Patient, Clear"]
-                          },
-                          {
-                            "text": "Staying calm",
-                            "skills": ["De-escalation, Stability"],
-                            "traits": ["Chill, Reliable"]
-                          },
-                          {
-                            "text": "Coming up with ideas",
-                            "skills": ["Innovation, Creativity"],
-                            "traits": ["Inspired, Lively"]
-                          },
-                          {
-                            "text": "Organizing chaos",
-                            "skills": ["Problem Solving, Systems Thinking"],
-                            "traits": ["Grounded, Tactical"]
-                          }
+      ]
+    },
+    {
+      "question": "What task feels so natural you almost forget it's a skill?",
+      "answers": [
+        {
+          "text": "Explaining things",
+          "skills": ["Communication, Teaching"],
+          "traits": ["Patient, Clear"]
+        },
+        {
+          "text": "Staying calm",
+          "skills": ["De-escalation, Stability"],
+          "traits": ["Chill, Reliable"]
+        },
+        {
+          "text": "Coming up with ideas",
+          "skills": ["Innovation, Creativity"],
+          "traits": ["Inspired, Lively"]
+        },
+        {
+          "text": "Organizing chaos",
+          "skills": ["Problem Solving, Systems Thinking"],
+          "traits": ["Grounded, Tactical"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What do you lose track of time doing?",
-                            "answers": [
-                          {
-                            "text": "Designing or creating",
-                            "skills": [" Design Thinking, Crafting"],
-                            "traits": ["Creative, Flow-State-Oriented"]
-                          },
-                          {
-                            "text": "Helping others",
-                            "skills": ["Service, Empathy"],
-                            "traits": ["Generous, People-Focused"]
-                          },
-                          {
-                            "text": "Solving puzzles",
-                            "skills": ["Logic, Strategy"],
-                            "traits": ["Engaged, Detail-Focused"]
-                          },
-                          {
-                            "text": "Reading or researching",
-                            "skills": ["Knowledge Building, Analysis"],
-                            "traits": ["Thoughtful, Curious"]
-                          }
+      ]
+    },
+    {
+      "question": "What do you lose track of time doing?",
+      "answers": [
+        {
+          "text": "Designing or creating",
+          "skills": [" Design Thinking, Crafting"],
+          "traits": ["Creative, Flow-State-Oriented"]
+        },
+        {
+          "text": "Helping others",
+          "skills": ["Service, Empathy"],
+          "traits": ["Generous, People-Focused"]
+        },
+        {
+          "text": "Solving puzzles",
+          "skills": ["Logic, Strategy"],
+          "traits": ["Engaged, Detail-Focused"]
+        },
+        {
+          "text": "Reading or researching",
+          "skills": ["Knowledge Building, Analysis"],
+          "traits": ["Thoughtful, Curious"]
+        }
                           
-                        ]
-                        },
-                        {"question": "What kind of puzzle do you love solving?",
-                            "answers": [
-                          {
-                            "text": "Logic puzzles",
-                            "skills": ["Problem Solving, Critical Thinking"],
-                            "traits": ["Rational, Deliberate"]
-                          },
-                          {
-                            "text": "Social puzzles",
-                            "skills": ["Empathy, Negotiation"],
-                            "traits": ["Intuitive, Diplomatic"]
-                          },
-                          {
-                            "text": "Creative challenges",
-                            "skills": ["Innovation, Ideation"],
-                            "traits": ["Visionary, Open-Minded"]
-                          },
-                          {
-                            "text": "Strategy games",
-                            "skills": ["Planning, Decision-Making"],
-                            "traits": ["Tactical, Patient"]
-                          }
+      ]
+    },
+    {
+      "question": "What kind of puzzle do you love solving?",
+      "answers": [
+        {
+          "text": "Logic puzzles",
+          "skills": ["Problem Solving, Critical Thinking"],
+          "traits": ["Rational, Deliberate"]
+        },
+        {
+          "text": "Social puzzles",
+          "skills": ["Empathy, Negotiation"],
+          "traits": ["Intuitive, Diplomatic"]
+        },
+        {
+          "text": "Creative challenges",
+          "skills": ["Innovation, Ideation"],
+          "traits": ["Visionary, Open-Minded"]
+        },
+        {
+          "text": "Strategy games",
+          "skills": ["Planning, Decision-Making"],
+          "traits": ["Tactical, Patient"]
+        }
                           
-                        ]
-                        },
-                        {"question": "In a group project, which role do you naturally take?",
-                            "answers": [
-                          {
-                            "text": "Leader",
-                            "skills": ["Delegation, Vision"],
-                            "traits": ["Rational, Deliberate"]
-                          },
-                          {
-                            "text": "Supporter",
-                            "skills": ["Execution, Team Building"],
-                            "traits": ["Loyal, Collaborative"]
-                          },
-                          {
-                            "text": "Innovator",
-                            "skills": ["Brainstorming, Disruption"],
-                            "traits": ["Experimental, Creative"]
-                          },
-                          {
-                            "text": "Organizer",
-                            "skills": ["Coordination, Planning"],
-                            "traits": ["Practical, Reliable"]
-                          }
+      ]
+    },
+    {
+      "question": "In a group project, which role do you naturally take?",
+      "answers": [
+        {
+          "text": "Leader",
+          "skills": ["Delegation, Vision"],
+          "traits": ["Rational, Deliberate"]
+        },
+        {
+          "text": "Supporter",
+          "skills": ["Execution, Team Building"],
+          "traits": ["Loyal, Collaborative"]
+        },
+        {
+          "text": "Innovator",
+          "skills": ["Brainstorming, Disruption"],
+          "traits": ["Experimental, Creative"]
+        },
+        {
+          "text": "Organizer",
+          "skills": ["Coordination, Planning"],
+          "traits": ["Practical, Reliable"]
+        }
                           
-                        ]
-                        },
-                        {"question": "You can work for one fictional character:",
-                            "answers": [
-                          {
-                            "text": "Tony Stark",
-                            "skills": ["Engineering, Innovation"],
-                            "traits": ["Fast-Paced, High Pressure"]
-                          },
-                          {
-                            "text": "Hermione Granger",
-                            "skills": [" Research, Discipline"],
-                            "traits": ["Analytical, Conscientious"]
-                          },
-                          {
-                            "text": "Sherlock Holmes",
-                            "skills": ["Deduction, Detail Recognition"],
-                            "traits": ["Observant, Independent"]
-                          },
-                          {
-                            "text": "Willy Wonka",
-                            "skills": ["Creativity, Experimentation"],
-                            "traits": ["Imaginative, Playful"]
-                          }
+      ]
+    },
+    {
+      "question": "You can work for one fictional character:",
+      "answers": [
+        {
+          "text": "Tony Stark",
+          "skills": ["Engineering, Innovation"],
+          "traits": ["Fast-Paced, High Pressure"]
+        },
+        {
+          "text": "Hermione Granger",
+          "skills": [" Research, Discipline"],
+          "traits": ["Analytical, Conscientious"]
+        },
+        {
+          "text": "Sherlock Holmes",
+          "skills": ["Deduction, Detail Recognition"],
+          "traits": ["Observant, Independent"]
+        },
+        {
+          "text": "Willy Wonka",
+          "skills": ["Creativity, Experimentation"],
+          "traits": ["Imaginative, Playful"]
+        }
                           
-                        ]
-                        }
-
-                                                   
-                        
-
-      
-
+      ]
+    },                                              
+    {
+      "question": "You wake up as the CEO of a company you know nothing about. What do you do first?",
+      "answers": [
+        {
+          "text": "Call an emergency board meeting",
+          "skills": ["Leadership", "Decision Making"],
+          "traits": ["Confident", "Strategic"]
+        },
+        {
+          "text": "Rebrand it into a cat video empire",
+          "skills": ["Marketing", "Creativity"],
+          "traits": ["Playful", "Innovative"]
+        },
+        {
+          "text": "Quietly resign and start a food truck",
+          "skills": ["Entrepreneurship", "Adaptability"],
+          "traits": ["Pragmatic", "Independent"]
+        }
+      ]
+    },
+    {
+      "question": "You’ve been assigned to redesign money. What's your vision?",
+      "answers": [
+        {
+          "text": "Make it glittery and smell like fresh cookies",
+          "skills": ["Product Design", "Branding"],
+          "traits": ["Creative", "Detail-Oriented"]
+        },
+        {
+          "text": "Turn all transactions into epic rap battles",
+          "skills": ["Event Planning", "Performance"],
+          "traits": ["Entertaining", "Bold"]
+        },
+        {
+          "text": "Launch a new cryptocurrency based on kindness",
+          "skills": ["Blockchain Knowledge", "Social Entrepreneurship"],
+          "traits": ["Innovative", "Compassionate"]
+        }
+      ]
+    },
+    {
+      "question": "You're a wizard, but only for spreadsheets. How do you use your power?",
+      "answers": [
+        {
+          "text": "Automate global budgeting chaos",
+          "skills": ["Data Analysis", "Automation"],
+          "traits": ["Efficient", "Problem Solver"]
+        },
+        {
+          "text": "Host 'Excel for Wizards' masterclasses",
+          "skills": ["Teaching", "Communication"],
+          "traits": ["Helpful", "Enterprising"]
+        },
+        {
+          "text": "Create an underground league of spreadsheet duels",
+          "skills": ["Game Design", "Community Building"],
+          "traits": ["Competitive", "Creative"]
+        }
+      ]
+    },
+    {
+      "question": "You've been elected Mayor of Sleepytown. What's your first act?",
+      "answers": [
+        {
+          "text": "Legalize napping everywhere",
+          "skills": ["Policy Making", "Public Relations"],
+          "traits": ["Empathetic", "Forward-Thinking"]
+        },
+        {
+          "text": "Turn the town into a pajama-themed tourist destination",
+          "skills": ["Tourism Strategy", "Marketing"],
+          "traits": ["Inventive", "Sociable"]
+        },
+        {
+          "text": "Create a council of dream interpreters",
+          "skills": ["Psychology", "Team Leadership"],
+          "traits": ["Curious", "Open-Minded"]
+        }
+      ]
+    },
+    {
+      "question": "You find a talking plant. It wants to start a business. What's the plan?",
+      "answers": [
+        {
+          "text": "Launch a plant-based consulting firm",
+          "skills": ["Consulting", "Brand Development"],
+          "traits": ["Resourceful", "Professional"]
+        },
+        {
+          "text": "Create a line of eco-friendly motivational posters",
+          "skills": ["Design", "Sustainability Knowledge"],
+          "traits": ["Creative", "Optimistic"]
+        },
+        {
+          "text": "Open a luxury spa for plants",
+          "skills": ["Hospitality", "Innovation"],
+          "traits": ["Detail-Oriented", "Inventive"]
+        }
+      ]
+    },
+    {
+      "question": "You are now a professional dragon trainer. How do you build your brand?",
+      "answers": [
+        {
+          "text": "Publish viral dragon care tutorials",
+          "skills": ["Content Creation", "Education"],
+          "traits": ["Creative", "Charismatic"]
+        },
+        {
+          "text": "Launch a luxury dragon accessories store",
+          "skills": ["Retail Management", "Marketing"],
+          "traits": ["Ambitious", "Stylish"]
+        },
+        {
+          "text": "Form a dragon-riding sports league",
+          "skills": ["Sports Management", "Event Organization"],
+          "traits": ["Energetic", "Visionary"]
+        }
+      ]
+    },
+    {
+      "question": "You invent a new holiday. What's the theme?",
+      "answers": [
+        {
+          "text": "Mandatory day of snack sharing",
+          "skills": ["Community Building", "Event Planning"],
+          "traits": ["Generous", "Sociable"]
+        },
+        {
+          "text": "Dress like your pet day",
+          "skills": ["Creativity", "Marketing"],
+          "traits": ["Playful", "Spontaneous"]
+        },
+        {
+          "text": "National 5-Minute Nap Contest",
+          "skills": ["Health Advocacy", "Organizing"],
+          "traits": ["Chill", "Supportive"]
+        }
+      ]
+    },
+    {
+      "question": "You've been asked to host a reality show for robots. What's the concept?",
+      "answers": [
+        {
+          "text": "Robot Bake-Off",
+          "skills": ["Event Production", "Creativity"],
+          "traits": ["Fun-Loving", "Inventive"]
+        },
+        {
+          "text": "The Great Robot Debate",
+          "skills": ["Debate Moderation", "Communication"],
+          "traits": ["Clever", "Articulate"]
+        },
+        {
+          "text": "Extreme Robot Obstacle Courses",
+          "skills": ["Sports Coordination", "Entertainment"],
+          "traits": ["Energetic", "Thrill-Seeking"]
+        }
+      ]
+    },
+    {
+      "question": "You can instantly become an expert in any subject. What do you pick?",
+      "answers": [
+        {
+          "text": "Diplomacy, so I can broker world peace and sweet dessert deals",
+          "skills": ["Negotiation", "Leadership"],
+          "traits": ["Diplomatic", "Optimistic"]
+        },
+        {
+          "text": "Animation, so I can finally make my cartoon masterpiece",
+          "skills": ["Animation", "Storytelling"],
+          "traits": ["Creative", "Persistent"]
+        },
+        {
+          "text": "Cheese-making, because why not",
+          "skills": ["Food Science", "Craftsmanship"],
+          "traits": ["Patient", "Artisan"]
+        }
+      ]
+    },
+    {
+      "question": "Your new side hustle: interpret dreams… poorly but enthusiastically. What's your motto?",
+      "answers": [
+        {
+          "text": "Confident guesses, questionable accuracy!",
+          "skills": ["Public Speaking", "Salesmanship"],
+          "traits": ["Bold", "Entertaining"]
+        },
+        {
+          "text": "Turning naps into marketing opportunities!",
+          "skills": ["Marketing", "Creativity"],
+          "traits": ["Playful", "Innovative"]
+        },
+        {
+          "text": "Fake it ‘til you psychic it!",
+          "skills": ["Performance", "Humor"],
+          "traits": ["Funny", "Energetic"]
+        }
+      ]
+    },
+    {
+      "question": "You open a café where the customers cook for *you.* What's the vibe?",
+      "answers": [
+        {
+          "text": "MasterChef meets sitcom",
+          "skills": ["Hospitality", "Entertainment"],
+          "traits": ["Fun-Loving", "Charming"]
+        },
+        {
+          "text": "Serious food critics only",
+          "skills": ["Critique Writing", "Food Knowledge"],
+          "traits": ["Discerning", "Witty"]
+        },
+        {
+          "text": "Anarchic food-fight nights",
+          "skills": ["Event Planning", "Conflict Management"],
+          "traits": ["Bold", "Creative"]
+        }
+      ]
+    },
+    {
+      "question": "You are a knight, but your quest is oddly specific. What's your mission?",
+      "answers": [
+        {
+          "text": "Rescue endangered snacks from oblivion",
+          "skills": ["Advocacy", "Marketing"],
+          "traits": ["Passionate", "Resourceful"]
+        },
+        {
+          "text": "Track down the world's missing left socks",
+          "skills": ["Investigation", "Persistence"],
+          "traits": ["Curious", "Patient"]
+        },
+        {
+          "text": "Host jousting tournaments on skateboards",
+          "skills": ["Event Planning", "Sports Management"],
+          "traits": ["Adventurous", "Visionary"]
+        }
+      ]
+    },
+    {
+      "question": "You now live inside a theme park. What's your dream job there?",
+      "answers": [
+        {
+          "text": "Design new terrifying roller coasters",
+          "skills": ["Engineering", "Creativity"],
+          "traits": ["Bold", "Innovative"]
+        },
+        {
+          "text": "Narrate spooky boat rides with dramatic flair",
+          "skills": ["Storytelling", "Performance"],
+          "traits": ["Expressive", "Witty"]
+        },
+        {
+          "text": "Sell over-the-top themed snacks",
+          "skills": ["Sales", "Hospitality"],
+          "traits": ["Sociable", "Entrepreneurial"]
+        }
+      ]
+    },
+    {
+      "question": "You're writing a book: 101 Careers for Lazy Geniuses. What's the first job listed?",
+      "answers": [
+        {
+          "text": "Professional brainstormer",
+          "skills": ["Idea Generation", "Strategy"],
+          "traits": ["Creative", "Efficient"]
+        },
+        {
+          "text": "Official nap tester",
+          "skills": ["Product Testing", "Health Advocacy"],
+          "traits": ["Relaxed", "Detail-Oriented"]
+        },
+        {
+          "text": "Consultant for 'why are we even doing this?' meetings",
+          "skills": ["Consulting", "Critical Thinking"],
+          "traits": ["Skeptical", "Insightful"]
+        }
+      ]
+    },
+    {
+      "question": "Your professional tool: a flute. What's your business?",
+      "answers": [
+        {
+          "text": "Kazoo wedding services",
+          "skills": ["Event Planning", "Performance"],
+          "traits": ["Creative", "Entertaining"]
+        },
+        {
+          "text": "Corporate team-building kazoo orchestras",
+          "skills": ["Training", "Music Direction"],
+          "traits": ["Motivational", "Innovative"]
+        },
+        {
+          "text": "Kazoo-based meditation retreats",
+          "skills": ["Wellness Coaching", "Music Therapy"],
+          "traits": ["Peaceful", "Inventive"]
+        }
+      ]
+    },
+    {
+      "question": "Your new boss is a sentient vending machine. How do you impress them?",
+      "answers": [
+        {
+          "text": "Invent gourmet snack options",
+          "skills": ["Product Innovation", "Food Development"],
+          "traits": ["Creative", "Enterprising"]
+        },
+        {
+          "text": "Hack vending technology for maximum efficiency",
+          "skills": ["Tech Development", "Problem Solving"],
+          "traits": ["Analytical", "Inventive"]
+        },
+        {
+          "text": "Start an Instagram dedicated to their adventures",
+          "skills": ["Social Media Strategy", "Brand Building"],
+          "traits": ["Funny", "Strategic"]
+        }
+      ]
+    },
+    {
+      "question": "You are hired to design a museum for something ridiculous. What do you pick?",
+      "answers": [
+        {
+          "text": "The Museum of Awkward Handshakes",
+          "skills": ["Curating", "Creative Writing"],
+          "traits": ["Humorous", "Observant"]
+        },
+        {
+          "text": "The Museum of Forgotten Wi-Fi Passwords",
+          "skills": ["Archiving", "Exhibit Design"],
+          "traits": ["Nostalgic", "Tech-Savvy"]
+        },
+        {
+          "text": "The Museum of Lost Socks",
+          "skills": ["Storytelling", "Event Production"],
+          "traits": ["Whimsical", "Inventive"]
+        }
+      ]
+    },
+    {
+      "question": "Your coworkers are penguins. What's your management style?",
+      "answers": [
+        {
+          "text": "Daily ice-breaker games",
+          "skills": ["Team Building", "Facilitation"],
+          "traits": ["Energetic", "Playful"]
+        },
+        {
+          "text": "Formal business suits for all",
+          "skills": ["Professionalism", "Organizational Skills"],
+          "traits": ["Disciplined", "Detail-Oriented"]
+        },
+        {
+          "text": "Remote work from igloos",
+          "skills": ["Remote Management", "Flexibility"],
+          "traits": ["Adaptable", "Empowering"]
+        }
+      ]
+    }                     
 
   ]
   
