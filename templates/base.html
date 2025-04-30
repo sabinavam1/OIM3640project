@@ -8,6 +8,7 @@
 <body>
 
     <!-- TOP NAVIGATION -->
+    {% if show_progress is not defined or show_progress %}
     <header class="top-navigation">
         <div class="map-progress">
             {% set question_num = session.get('current_question', 0) %}
@@ -24,7 +25,9 @@
             {% endfor %}
         </div>
     </header>
+    {% endif %}
 
+    <!-- MAIN CONTENT AREA -->
     <div class="page-layout">
         <main class="main-content">
             {% block content %}{% endblock %}
@@ -32,17 +35,21 @@
     </div>
 
     <!-- BOTTOM ROPE -->
+    {% if show_progress is not defined or show_progress %}
     <div id="bottom-rope" class="bottom-rope">
         🧗 {{ (session.get('current_question', 0) * (stages|length - 1) // 15) }}/{{ stages|length - 1 }} Stops Climbed!
     </div>
+    {% endif %}
 
     <script>
         window.onload = function() {
             const rope = document.getElementById('bottom-rope');
-            rope.classList.add('pulse');
-            setTimeout(() => {
-                rope.classList.remove('pulse');
-            }, 1000);
+            if (rope) {
+                rope.classList.add('pulse');
+                setTimeout(() => {
+                    rope.classList.remove('pulse');
+                }, 1000);
+            }
         };
     </script>
 

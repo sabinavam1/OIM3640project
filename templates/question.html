@@ -7,9 +7,7 @@
     {% set total_stages = stages|length - 1 %}
     {% set stage_crossed = (question_num * total_stages) // 15 %}
     {% if (question_num % (15 // total_stages) == 0) and (question_num != 0) %}
-    <div id="stage-message" class="promotion-message animate-promotion">
-        🌟 <strong>Promotion!</strong> You've reached: <strong>{{ stages[stage_crossed] }}</strong> 🚀
-    </div>
+    
 {% endif %}
 
 

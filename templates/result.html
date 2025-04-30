@@ -2,42 +2,39 @@
 
 {% block content %}
 <div class="result-container">
-    <h1>🏢 You've Found the Golden Corner Office!</h1>
-<p>💰 You’ve claimed the hidden treasure of career success! 💰</p>
-
+    <h1>You've claimed the hidden treasure of career success! </h1>
 
     <div class="treasure-chest">
-        🎉 Congratulations, Career Adventurer! 🎉
+        Congratulations, Career Adventurer!
     </div>
 
     <!-- Career Profile Summary -->
     <div class="career-summary">
-        <h2>Top Traits:</h2>
-        <ul>
-            {% for trait in traits %}
-                <li>{{ trait }}</li>
-            {% endfor %}
-        </ul>
-
-        <h2>Top Job Matches:</h2>
-        <ul>
-            {% for job in jobs %}
-                <li>{{ job }}</li>
-            {% endfor %}
-        </ul>
+        <div class="summary-columns">
+            <div class="traits">
+                <h2>Top Traits</h2>
+                <ul>
+                    {% for trait in traits %}
+                        <li>{{ trait }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+    
+            <div class="jobs">
+                <h2>Top Job Matches</h2>
+                <ul>
+                    {% for job in jobs %}
+                        <li>{{ job }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
     </div>
 
     <!-- Timeline of the adventure -->
-    <div class="timeline-container">
-        <h2>🗺️ Your Career Adventure Journey</h2>
-        <table class="timeline-table">
-            <!-- Table contents -->
-        </table>
-    </div>
-    
 
     <form action="{{ url_for('start') }}" method="get">
-        <button type="submit" class="restart-button">🔁 Restart Adventure</button>
+        <button type="submit" class="restart-button"> Restart Adventure</button>
     </form>
 </div>
 

@@ -71,7 +71,7 @@ def start():
     session['questions'] = selected_questions
     session['current_question'] = 0
     session['answers'] = []
-    return render_template('start.html', stages=stages)
+    return render_template('start.html', stages=stages, show_progress=False)
 
 @app.route('/question', methods=['GET', 'POST'])
 def question():
