@@ -925,7 +925,7 @@
       ]
     },
     {
-      "question": "You’ve been assigned to redesign money. What's your vision?",
+      "question": "You've been assigned to redesign money. What's your vision?",
       "answers": [
         {
           "text": "Make it glittery and smell like fresh cookies",
@@ -1004,66 +1004,7 @@
         }
       ]
     },
-    {
-      "question": "You are now a professional dragon trainer. How do you build your brand?",
-      "answers": [
-        {
-          "text": "Publish viral dragon care tutorials",
-          "skills": ["Content Creation", "Education"],
-          "traits": ["Creative", "Charismatic"]
-        },
-        {
-          "text": "Launch a luxury dragon accessories store",
-          "skills": ["Retail Management", "Marketing"],
-          "traits": ["Ambitious", "Stylish"]
-        },
-        {
-          "text": "Form a dragon-riding sports league",
-          "skills": ["Sports Management", "Event Organization"],
-          "traits": ["Energetic", "Visionary"]
-        }
-      ]
-    },
-    {
-      "question": "You invent a new holiday. What's the theme?",
-      "answers": [
-        {
-          "text": "Mandatory day of snack sharing",
-          "skills": ["Community Building", "Event Planning"],
-          "traits": ["Generous", "Sociable"]
-        },
-        {
-          "text": "Dress like your pet day",
-          "skills": ["Creativity", "Marketing"],
-          "traits": ["Playful", "Spontaneous"]
-        },
-        {
-          "text": "National 5-Minute Nap Contest",
-          "skills": ["Health Advocacy", "Organizing"],
-          "traits": ["Chill", "Supportive"]
-        }
-      ]
-    },
-    {
-      "question": "You've been asked to host a reality show for robots. What's the concept?",
-      "answers": [
-        {
-          "text": "Robot Bake-Off",
-          "skills": ["Event Production", "Creativity"],
-          "traits": ["Fun-Loving", "Inventive"]
-        },
-        {
-          "text": "The Great Robot Debate",
-          "skills": ["Debate Moderation", "Communication"],
-          "traits": ["Clever", "Articulate"]
-        },
-        {
-          "text": "Extreme Robot Obstacle Courses",
-          "skills": ["Sports Coordination", "Entertainment"],
-          "traits": ["Energetic", "Thrill-Seeking"]
-        }
-      ]
-    },
+    
     {
       "question": "You can instantly become an expert in any subject. What do you pick?",
       "answers": [
@@ -1084,46 +1025,7 @@
         }
       ]
     },
-    {
-      "question": "Your new side hustle: interpret dreams… poorly but enthusiastically. What's your motto?",
-      "answers": [
-        {
-          "text": "Confident guesses, questionable accuracy!",
-          "skills": ["Public Speaking", "Salesmanship"],
-          "traits": ["Bold", "Entertaining"]
-        },
-        {
-          "text": "Turning naps into marketing opportunities!",
-          "skills": ["Marketing", "Creativity"],
-          "traits": ["Playful", "Innovative"]
-        },
-        {
-          "text": "Fake it ‘til you psychic it!",
-          "skills": ["Performance", "Humor"],
-          "traits": ["Funny", "Energetic"]
-        }
-      ]
-    },
-    {
-      "question": "You open a café where the customers cook for *you.* What's the vibe?",
-      "answers": [
-        {
-          "text": "MasterChef meets sitcom",
-          "skills": ["Hospitality", "Entertainment"],
-          "traits": ["Fun-Loving", "Charming"]
-        },
-        {
-          "text": "Serious food critics only",
-          "skills": ["Critique Writing", "Food Knowledge"],
-          "traits": ["Discerning", "Witty"]
-        },
-        {
-          "text": "Anarchic food-fight nights",
-          "skills": ["Event Planning", "Conflict Management"],
-          "traits": ["Bold", "Creative"]
-        }
-      ]
-    },
+    
     {
       "question": "You are a knight, but your quest is oddly specific. What's your mission?",
       "answers": [
@@ -1164,46 +1066,7 @@
         }
       ]
     },
-    {
-      "question": "You're writing a book: 101 Careers for Lazy Geniuses. What's the first job listed?",
-      "answers": [
-        {
-          "text": "Professional brainstormer",
-          "skills": ["Idea Generation", "Strategy"],
-          "traits": ["Creative", "Efficient"]
-        },
-        {
-          "text": "Official nap tester",
-          "skills": ["Product Testing", "Health Advocacy"],
-          "traits": ["Relaxed", "Detail-Oriented"]
-        },
-        {
-          "text": "Consultant for 'why are we even doing this?' meetings",
-          "skills": ["Consulting", "Critical Thinking"],
-          "traits": ["Skeptical", "Insightful"]
-        }
-      ]
-    },
-    {
-      "question": "Your professional tool: a flute. What's your business?",
-      "answers": [
-        {
-          "text": "Kazoo wedding services",
-          "skills": ["Event Planning", "Performance"],
-          "traits": ["Creative", "Entertaining"]
-        },
-        {
-          "text": "Corporate team-building kazoo orchestras",
-          "skills": ["Training", "Music Direction"],
-          "traits": ["Motivational", "Innovative"]
-        },
-        {
-          "text": "Kazoo-based meditation retreats",
-          "skills": ["Wellness Coaching", "Music Therapy"],
-          "traits": ["Peaceful", "Inventive"]
-        }
-      ]
-    },
+   
     {
       "question": "Your new boss is a sentient vending machine. How do you impress them?",
       "answers": [
@@ -1224,26 +1087,7 @@
         }
       ]
     },
-    {
-      "question": "You are hired to design a museum for something ridiculous. What do you pick?",
-      "answers": [
-        {
-          "text": "The Museum of Awkward Handshakes",
-          "skills": ["Curating", "Creative Writing"],
-          "traits": ["Humorous", "Observant"]
-        },
-        {
-          "text": "The Museum of Forgotten Wi-Fi Passwords",
-          "skills": ["Archiving", "Exhibit Design"],
-          "traits": ["Nostalgic", "Tech-Savvy"]
-        },
-        {
-          "text": "The Museum of Lost Socks",
-          "skills": ["Storytelling", "Event Production"],
-          "traits": ["Whimsical", "Inventive"]
-        }
-      ]
-    },
+    
     {
       "question": "Your coworkers are penguins. What's your management style?",
       "answers": [
@@ -1314,31 +1158,7 @@
         }
       ]
     },
-    {
-      "question": "A cursed AI offers you a mysterious job. What do you choose?",
-      "answers": [
-        {
-          "text": "Chief Time Traveler Coordinator.",
-          "skills": ["Systems Organization, Historical Analysis"],
-          "traits": ["Visionary, Analytical"]
-        },
-        {
-          "text": "Dream Architect for Hire.",
-          "skills": ["Creative Visualization, Abstract Thinking"],
-          "traits": ["Inventive, Artistic"]
-        },
-        {
-          "text": "Professional Monster Negotiator.",
-          "skills": ["Conflict Resolution, High-Stakes Mediation"],
-          "traits": ["Calm, Tactical"]
-        },
-        {
-          "text": "Mayor of an Intergalactic Trash Planet.",
-          "skills": ["Environmental Management, Resource Optimization"],
-          "traits": ["Resilient, Unbothered"]
-        }
-      ]
-    },
+  
     {
       "question": "Which cursed object are you legally required to manage?",
       "answers": [
@@ -1378,7 +1198,7 @@
           "traits": ["Whimsical, Inspirational"]
         },
         {
-          "text": "A fridge that judges people’s leftovers.",
+          "text": "A fridge that judges people's leftovers.",
           "skills": ["Critical Analysis, Communication"],
           "traits": [" Blunt, Observant"]
         },
@@ -1390,7 +1210,7 @@
       ]
     },
     {
-      "question": "You wake up and your job is \"professional vibe curator\" for an alien embassy. What’s your first move?",
+      "question": "You wake up and your job is \"professional vibe curator\" for an alien embassy. What's your first move?",
       "answers": [
         {
           "text": "Build a giant glitter dome as a welcome gift.",
@@ -1414,31 +1234,7 @@
         }
       ]
     },
-    {
-      "question": "Choose your new career after accidentally summoning a minor chaos deity.",
-      "answers": [
-        {
-          "text": "Freelance damage control consultant for mystical mishaps.",
-          "skills": ["Crisis Management, Flexibility"],
-          "traits": [" Resilient, Unflappable"]
-        },
-        {
-          "text": "Event planner for \"cursed yet stylish\" parties.",
-          "skills": ["Party Planning, Risk-Taking"],
-          "traits": ["Fearless, Creative"]
-        },
-        {
-          "text": "Public relations manager for haunted objects.",
-          "skills": ["Reputation Management, Writing"],
-          "traits": ["Patient, Imaginative"]
-        },
-        {
-          "text": "Ghostwriter for angry spirits.",
-          "skills": ["Creative Writing, Empathy"],
-          "traits": ["Expressive, Sensitive"]
-        }
-      ]
-    },
+   
     {
       "question": "What weird personal brand are you launching tomorrow?",
       "answers": [
@@ -1465,7 +1261,7 @@
       ]
     },
     {
-      "question": "You accidentally inherit a haunted amusement park. What’s your business model??",
+      "question": "You accidentally inherit a haunted amusement park. What's your business model??",
       "answers": [
         {
           "text": "Interactive ghost tours narrated by overly dramatic teens.",
@@ -1489,56 +1285,7 @@
         }
       ]
     },
-    {
-      "question": "Pick a cursed superpower:",
-      "answers": [
-        {
-          "text": "You can teleport... but only to disappointing buffets.",
-          "skills": ["Adaptability, Food Critique"],
-          "traits": ["Humorous, Resilient"]
-        },
-        {
-          "text": "You can read minds... but only when someone’s thinking about socks.",
-          "skills": ["Pattern Recognition, Focus"],
-          "traits": ["Curious, Patient"]
-        },
-        {
-          "text": "You can control weather... but only inside IKEA",
-          "skills": ["Environmental Manipulation, Tactical Thinking"],
-          "traits": ["Strategic, Weirdly Specific"]
-        },
-        {
-          "text": "You can become invisible... but only during minor inconveniences.",
-          "skills": ["Situational Awareness, Timing"],
-          "traits": ["Stealthy, Resourceful"]
-        }
-      ]
-    },
-    {
-      "question": "You have to design a new start-up based on a random object. Pick your launch product:",
-      "answers": [
-        {
-          "text": "Spatula-based productivity consulting.",
-          "skills": ["Organizational Consulting, Creativity"],
-          "traits": ["Innovative, Enthusiastic"]
-        },
-        {
-          "text": "Glow-in-the-dark office plants that file passive-aggressive HR reports.",
-          "skills": ["Product Development, Behavioral Science"],
-          "traits": ["Sassy, Clever"]
-        },
-        {
-          "text": "Personalized umbrellas that roast you based on your life choices.",
-          "skills": [" Smart Tech Development, UX Writing"],
-          "traits": ["Humorous, Honest"]
-        },
-        {
-          "text": "Self-defense classes taught by squirrels.",
-          "skills": ["Curriculum Design, Risk Management"],
-          "traits": ["Energetic, Tactical"]
-        }
-      ]
-    },
+    
     {
       "question": "Your new job is “Chief Vibe Officer” for a group of cryptids. What’s your team-building strategy?",
       "answers": [
