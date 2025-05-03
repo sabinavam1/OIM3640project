@@ -10,7 +10,7 @@ The purpose of this tool is to help guide college students about the career choi
 
 ## User Instructions
 
-Users will respond to ten "out-of-the-box" questions. Every quesiton will be multiple choice with an average of four options per question. A few examples are the following:
+Users will respond to ten "out-of-the-box" questions. Every question will be multiple choice with an average of four options per question. A few examples are the following:
 
   1. You wake up and you’re a duck. What’s the first thing you do?
      - Apply for a business loan
@@ -24,9 +24,16 @@ Users will respond to ten "out-of-the-box" questions. Every quesiton will be mul
      - Slow infiltration via internships
      - Mind control through baked goods
 
-Although the majority of the questions will consist in selecting option a, b, c, and d, there will be questions where users will have to click on images instead.
+Although the majority of the questions will consist in selecting option a, b, c, and d.
 
 After the ten questions, users will get a notification saying "You're ideal career will be... (insert career name)!"
+
+## Implementation Information
+
+
+## Results
+
+This quiz's color scheme was orange, red, and gree, since we wanted to stick with earthy tones that reflected a "pirate's" world. The index page is a 
 
 ## Project Evolution/Narrative
 
