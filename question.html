@@ -1,13 +1,15 @@
-{% extends 'base.html' %}
+{% extends 'index.html' %}
 
 {% block content %}
 <div class="stage-container">
+
     {% set question_num = session.get('current_question', 0) %}
     {% set total_stages = stages|length - 1 %}
     {% set stage_crossed = (question_num * total_stages) // 15 %}
     {% if (question_num % (15 // total_stages) == 0) and (question_num != 0) %}
     
-    {% endif %}
+{% endif %}
+
 
     <div class="question-card">
         <p class="question-text">{{ question['question'] }}</p>
@@ -20,5 +22,6 @@
             {% endfor %}
         </form>
     </div>
+
 </div>
 {% endblock %}
