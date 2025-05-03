@@ -33,7 +33,7 @@ After the ten questions, users will get a notification saying "You're ideal care
 
 ## Results
 
-This quiz's color scheme was orange, red, and gree, since we wanted to stick with earthy tones that reflected a "pirate's" world. The index page is a 
+This quiz's color scheme was orange, red, and gree, since we wanted to stick with earthy tones that reflected a "pirate's" world. The start page is meant to introduce users to the quiz. After the press the "start" button, it will take them to the questions. Once the answers have been selected, the user will reach the result page where they will be shown their top skills and job matches. The website can be viewed once app.py has been run and opened in the web server. 
 
 ## Project Evolution/Narrative
 
