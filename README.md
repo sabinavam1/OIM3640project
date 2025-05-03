@@ -30,6 +30,7 @@ After the ten questions, users will get a notification saying "You're ideal care
 
 ## Implementation Information
 
+![Quiz Layout](images/quiz-layout.jpeg)
 
 ## Results
 
