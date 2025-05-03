@@ -10,7 +10,7 @@ The purpose of this tool is to help guide college students about the career choi
 
 ## User Instructions
 
-Users will respond to ten "out-of-the-box" questions. Every question will be multiple choice with an average of four options per question. A few examples are the following:
+Users will respond to fifteen randomized "out-of-the-box" questions. Every question will be multiple choice with an average of four options per question. A few examples are the following:
 
   1. You wake up and you’re a duck. What’s the first thing you do?
      - Apply for a business loan
@@ -26,7 +26,7 @@ Users will respond to ten "out-of-the-box" questions. Every question will be mul
 
 Although the majority of the questions will consist in selecting option a, b, c, and d.
 
-After the ten questions, users will get a notification saying "You're ideal career will be... (insert career name)!"
+After the ten questions, users will be taken to our landing page where they will be shown 5 potential careers that they could pursue based on their answers."
 
 ## Implementation Information
 
@@ -34,7 +34,7 @@ After the ten questions, users will get a notification saying "You're ideal care
 
 ## Results
 
-This quiz's color scheme was orange, red, and gree, since we wanted to stick with earthy tones that reflected a "pirate's" world. The start page is meant to introduce users to the quiz. After the press the "start" button, it will take them to the questions. Once the answers have been selected, the user will reach the result page where they will be shown their top skills and job matches. The website can be viewed once app.py has been run and opened in the web server. 
+This quiz's color scheme was orange, red, and green, since we wanted to stick with earthy tones that reflected a "pirate's" world. The start page is meant to introduce users to the quiz. After the press the "start" button, it will take them to the questions. Once the answers have been selected, the user will reach the result page where they will be shown their top skills and job matches. The website can be viewed once app.py has been run and opened in the web server. 
 
 ## Project Evolution/Narrative
 
